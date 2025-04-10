@@ -1,0 +1,394 @@
+---
+title: "MUCAM: Análisis intercambio 2025"
+format:
+  html:
+    title-block-banner: "#f1b1d2"
+    title-block-banner-color: "#000000"
+    include-in-header:
+      - text: |
+          <style>
+            body {
+              background-color: #EAF4FF;  /* Color de fondo principal */
+              color: #333;  /* Color del texto */
+            }
+            
+            /* Reducir espacio debajo del banner */
+            .quarto-title-banner {
+              margin-bottom: 0.5rem !important;  /* Valor original: 3rem */
+              padding-bottom: 0.5rem !important;
+            }
+          </style>
+    lang: es
+    self-contained: true
+editor: visual
+---
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(include = FALSE)
+```
+
+```{r}
+## Abrir librerías
+
+library(tidyverse)
+
+## Abrir los datos y generar las variables necesarias.
+
+datos <- read.csv("00_datos/datos_intercambios_anonimizados.csv") %>% 
+  mutate(
+    
+    # Como en algunos casos no traer o llevarse ropa es NA y en otros 0,
+    # se pone en todos igual.
+    prendas_entrada = ifelse(is.na(prendas_entrada), 0, prendas_entrada),
+    prendas_salida = ifelse(is.na(prendas_salida), 0, prendas_salida),
+    
+    # Ver cuánta gente ha participado (trayendo y/o llevándose ropa)
+    participantes = ifelse((prendas_entrada >= 1 | prendas_salida >= 1),
+                           1, 0),
+    
+    # Variable para ver qué tipo de partidipantes predominan más
+    tipos_participantes = case_when(
+      prendas_entrada >= 1 & prendas_salida == 0 ~ 1,
+      prendas_entrada == 0 & prendas_salida >= 1 ~ 2,
+      prendas_entrada >= 1 & prendas_salida >= 1 ~ 3,
+      T ~ NA) %>% 
+      factor(labels = c("Solo traen ropa", "Solo se llevan",
+                        "Intercambian" #, "Inscritos que no vienen"
+      )),
+    
+    # Homogeneizar las categorías de la variable género 
+    genero = case_when(
+      genero %in% c("Agenero", "No binarie") ~ "No binario",
+      genero == "." ~ NA,
+      T ~ genero),
+    
+    # Reducir el número de casos de la variable uni dejando solo los principales
+    uni = case_when(
+      uni == "UC3M" ~ "UC3M",
+      uni == "UCM" ~ "UCM",
+      uni == "URJC" ~ "URJC",
+      uni %in% c("No soy de la Universidad",
+                 "No soy de la universidad...") ~
+        "No universitario",
+      T ~ "Otras universidades"),
+    
+    # Se crea una variable para ver si se inscribieron durante el intercambio o antes
+    apuntado_antes = case_when(
+        intercambio == "2025_4" & 
+          as.Date(ymd_hms(hora_inscripcion)) != as.Date("2025-04-02") ~ 1,
+        intercambio == "2024_11" & 
+          as.Date(ymd_hms(hora_inscripcion)) != as.Date("2024-11-20") ~ 1,
+        
+        intercambio == "2024_4" ~ NA, # En este intercambio se borraron gran parte de los datos sobre la fecha, por lo que es merjor no tenerla en cuenta apra el análisis.
+        
+        intercambio == "2023_11" & 
+          as.Date(ymd_hms(hora_inscripcion)) != as.Date("2023-11-29") ~ 1,
+        T ~ 0),
+    
+    # Ha habido un problema con el conteo en el Sheet de las prendas de salida
+    # en el intercambio 2025_4, añadiéndose una de más a quienes se han llevado algo
+    prendas_salida = ifelse(
+      (intercambio == "2025_4" & prendas_salida !=0),
+      (prendas_salida - 1), prendas_salida)    
+  )
+
+# Como el análisis se centra en el úntimo intercambio, y los anteriores son para comparar
+# se genera un objeto solo con los datos de 2025
+datos25 <- datos %>% 
+  filter(intercambio == "2025_4")
+```
+
+## Ideas principales
+
+-   Han participado en el intercambio **173** personas. Asimismo, 3 de cada 4 de los participantes han intercambiado ropa (traído y llevado).
+
+-   Se trata del segundo intercambio con mayor número de participantes.
+
+-   Las personas suelen venir a dejar su ropa sobre todo por la mañana, mientras que se llevan más cosas por la tarde. Por eso, en lugar de tener a gente con un puesto fijo atendiendo solo en la salida y otros solo en la entrada, a ciertas horas convendría flexibilizar estos puestos.
+
+-   Los picos de participación se dan por la mañana (de 12:00 a 13:00) y por la tarde (de 16:30 a 17:00). También se pasa mucha gente en el descanso para comer.
+
+-   Uno de cada cuatro participantes traen y se llevan ropa. Solo un 10% dejan cosas sin llevarse nada.
+
+-   Al intercambio llega un número de prendas mayor del que finalmente se llevan quienes vienen, pero el número de prendas sobrantes es menor con cada intercambio (mayor concienciación de que no es un sitio para donar ropa, sino para intercambiar).
+
+-   Se llevan más camisetas y tops de los que se traen, mientras que con los pantalones sucede lo contrario. **Traen muchos más pantalones de los que se llevan**.
+
+-   **Participan muchas más mujeres que hombres**. Además, esta brecha se ha mantenido constante a lo largo de los distintos intercambios.
+
+-   La gran mayoría de las personas que se pasan por el intercambio son de la UC3M. Hay poca capacidad de atraer a personas de otras universidades, o que no sean universitarias.
+
+-   Un tercio de las personas que vinieron al intercambio lo conocían porque sus amigos lo organizaban, más de un 40% gracias a los carteles y otra información de la uni, y un 25% convencidos por sus amigos.
+
+-   La parte de marcar quiénes habían venido a más intercambios y estar atentos para darles los regalos podría haberse mejorado algo más.
+
+## Participación en el intercambio
+
+```{r}
+#| include: false
+
+table(datos25$participantes, useNA = "always")
+
+table(datos$intercambio, datos$participantes)
+```
+
+::: {#datawrapper-vis-XvTuA style="min-height:454px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/XvTuA/embed.js" charset="utf-8" data-target="#datawrapper-vis-XvTuA"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/XvTuA/full.png"/></noscript>
+:::
+
+Se han pasado por el intercambio **173** personas, y 55 inscritos no han venido. Esta es una participación mayor que en anteriores intercambios, siendo el segundo intercambio por el más personas han pasado. Además, también se trata de uno de los intercambios donde han faltado menos inscritos por venir.
+
+```{r}
+# Crear una nueva variable de la hora en la que esta se tenga en cuenta en tramos de 
+# 5 minutos, para facilitar de este modo la visualización de los datos.
+# Si se tienen en cuenta los datos de la fecha en bruto, como cada persona va a una hora
+# distinta el gráfico no será tan legible.
+
+datos25 <- datos25 %>% 
+  mutate(
+    hora_entrada = as.POSIXct(
+      paste("02/04/2025", hora_entrada),
+      format = "%d/%m/%Y %H:%M:%S"),
+    hora_entrada_redondeada = floor_date(hora_entrada,
+                                         unit = "5 minutes"),
+    
+    
+    hora_salida = as.POSIXct(hora_salida,
+                             format = "%d/%m/%Y %H:%M:%S"),
+    hora_salida_redondeada = floor_date(hora_salida,
+                                        unit = "5 minutes"))
+
+# Ahora, con un table se puede ver cúantas personas fueron en cada tramo horario
+table(datos25$hora_entrada_redondeada)
+
+table(datos25$hora_salida_redondeada)
+```
+
+::: {#datawrapper-vis-ftQsN style="min-height:442px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ftQsN/embed.js" charset="utf-8" data-target="#datawrapper-vis-ftQsN"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/ftQsN/full.png"/></noscript>
+:::
+
+Aunque en la hora total se puede estar tendiendo en cuenta dos veces a la misma personas (si esta trajo y se llevó ropa a la vez), sumarlos facilita comprender cuándo se necesita más o menos personas atendiendo. El pico del intercambio llegó por la tarde, entre las 16:30 y las 17:00, siendo este tramo el momento en el que más personas coincidieron en el intercambio.
+
+Sin embargo, la participación es mucho mayor por la mañana que por la tarde. En esta última lo normal es que haya un par de personas por el intercambio, mientras que por las mañanas la concentración de personas es mucho mayor. Y, aunque se nota el efecto de los descansos, aumentando la participación durante estos, la diferencia no es demasiado grande en comparación con las horas en las que hay clase. De hecho, los momentos donde más gente se pasa por el intercambio no coinciden con los cambios entre clases, sino que tienen lugar a media mañana y por la tarde (en torno a las 16:30).
+
+También existen diferencias entre el momento en el que los participantes traen ropa y se la llevan. Como muestra el gráfico de entrada, se trae ropa sobre todo por la mañana y en grupos (grandes picos constantes). Además, a partir de las 17:00 apenas llega ya ropa. En cambio, la ropa se la suelen llevar de forma más progresiva y más tarde, aunque a media mañana también hay una gran cantidad de personas llevándose ropa.
+
+Por ello, quizá en lugar de dejar siempre una persona fija atendiendo a quienes se llevan ropa, sería más recomendable que esta atendiera también a quienes la traen como ayuda extra, especialmente por las mañanas. En cambio, por la tarde sería más recomendable el refuerzo en la salida de ropa, ya que las personas que vienen a dejar prendas es cada vez menor.
+
+```{r}
+
+table(datos25$tipos_participantes) %>% 
+  prop.table() %>% 
+  round(4) * 100
+
+table(datos$tipos_participantes, datos$intercambio) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+
+```
+
+::: {#datawrapper-vis-og29k style="min-height:429px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/og29k/embed.js" charset="utf-8" data-target="#datawrapper-vis-og29k"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/og29k/full.png"/></noscript>
+:::
+
+En cuanto al tipo de participantes, la gran mayoría de ellos (1 de cada 4) han traído y se han llevado ropa. Solo un 13% de quienes han venido han dejado ropa sin llevarse nada, pero se compensa con el otro 14% que se han llevado ropa sin traer (gracias a los puntos sobrantes de otros años o los ganados en el Pasapalabra). El porcentaje de intercambiadores, como muestra el gráfico anterior, es muy similar al de otros intercambios, pero además se ha reducido el número de personas que solo traen ropa (1 de cada 10).
+
+Sin embargo, esto no implica que la cantidad de ropa que entra y sale en el intercambio sea la misma. En total, han traído casi 600 prendas distintas, mientras que se han llevado 500. Se sigue trayendo mucha más cantidad de ropa de la que finalmente se lleva la gente, no porque haya gente que traiga cosas sin llevarse nada, sino porque la cantidad de prendas que se llevan muchas personas es menor de la que traen. Se puede apreciar más fácilmente observando la media de prendas por persona de entrada (3,5) y de salida (2,9), lo que muestra de otra forma cómo los participantes se llevan menos ropa de la que traen.
+
+Sin embargo, aunque se sigue produciendo un problema de exceso de ropa, este no es tan grande como en intercambios anteriores. De hecho, se trata del intercambio donde la diferencia entre la media de prendas que traen y se llevan es menor. Quienes vienen al intercambio cada vez son más conscientes de que se trata de un intercambio de ropa y no de un sitio donde deshacerte del fondo de armario que ya no usas.
+
+```{r}
+
+datos %>% 
+  filter(participantes == 1,
+         intercambio == "2023_11") %>% 
+  summarise(media_entrada = mean(prendas_entrada),
+            media_salida = mean(prendas_salida))
+datos %>% 
+  filter(participantes == 1,
+         intercambio == "2024_4") %>% 
+  summarise(media_entrada = mean(prendas_entrada),
+            media_salida = mean(prendas_salida))
+datos %>% 
+  filter(participantes == 1,
+         intercambio == "2024_11") %>% 
+  summarise(media_entrada = mean(prendas_entrada),
+            media_salida = mean(prendas_salida))
+
+datos25 %>% 
+  filter(participantes == 1) %>% 
+  summarise(media_entrada = mean(prendas_entrada),
+            media_salida = mean(prendas_salida))
+
+```
+
+::: {#datawrapper-vis-KTPoq style="min-height:451px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/KTPoq/embed.js" charset="utf-8" data-target="#datawrapper-vis-KTPoq"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/KTPoq/full.png"/></noscript>
+:::
+
+## Inventario de prendas
+
+```{r}
+## Ver el número de prendas de cada tipo que trae cada persona
+
+datos_prendas_entrada <- datos25 %>% 
+  pivot_longer(
+    cols = starts_with("entrada_prenda_"),
+    names_to = "tipo_prenda",
+    values_to = "prenda") %>%
+  filter(prenda != "") %>%
+  count(X, prenda) %>%
+  pivot_wider(
+    names_from = prenda,
+    # names_glue = "{prenda}_entrada", los sufijos mejor añadirlos si lo uno a la base entera
+    values_from = n,
+    values_fill = list(n = 0))
+
+
+## Ver el número de prendas de cada tipo que se lleva cada persona
+
+datos_prendas_salida <- datos25 %>% 
+  pivot_longer(
+    cols = starts_with("salida_prenda_"),
+    names_to = "tipo_prenda",
+    values_to = "prenda") %>%
+  filter(prenda != "") %>%
+  count(X, prenda) %>%
+  pivot_wider(
+    names_from = prenda,
+    # names_glue = "{prenda}_salida",
+    values_from = n,
+    values_fill = list(n = 0))
+
+
+## Sumar los totales de entrada de cada prenda
+
+sum_prendas <- bind_rows(
+  # Sumar totales de entrada y asignar el tipo "entrada"
+  datos_prendas_entrada %>%
+    summarise(across(-X, sum, na.rm = TRUE)) %>%
+    mutate(tipo = "entrada"),
+  # Sumar totales de salida y asignar el tipo "salida"
+  datos_prendas_salida %>%
+    summarise(across(-X, sum, na.rm = TRUE)) %>%
+    mutate(tipo = "salida"))
+
+diferencia_prendas <- sum_prendas %>%
+  summarise(across(-tipo, ~ .[tipo == "entrada"] - .[tipo == "salida"])) %>%
+  mutate(tipo = "diferencia")
+
+inventario <- 
+  bind_rows(sum_prendas,
+            diferencia_prendas)
+```
+
+::: {#datawrapper-vis-TleYx style="min-height:379px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TleYx/embed.js" charset="utf-8" data-target="#datawrapper-vis-TleYx"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/TleYx/full.png"/></noscript>
+:::
+
+Si se presta atención al tipo de ropa que entra y sale, más allá de las cifras generales, se puede ver como existen diferencias importantes. El tipo de prenda que más trae la gente son camisetas y tops, pero también es del que más se llevan. Quizá en intercambios futuros convendría también separar la categoría de camiseta/polo/top para ver si se están llevando de los tres tipos o de uno se llevan muchas prendas mientras que de la otra entra más de lo que sale.
+
+También hay más demanda de faldas, complementos y bolsos de los que se traen. Por el lado contrario, **se traen muchos más pantalones de los que la gente se lleva**. Existe un problema con este tipo de prenda, ya que es, junto a las camisetas, lo que más frecuentemente se trae al intercambio. Sin embargo, aunque los participantes también se llevan muchos pantalones (es la segunda prenda de la que más se llevan), apenas es suficiente para compensar todos los que llegan.
+
+Otras prendas problemáticas son los abrigos, donde no se han llevado ni la mitad de los que han llegado, aunque son tan pocos que realmente no supone un problema. Tampoco triunfan mucho los vestidos ni los jersey, ni las sudaderas, estas dos últimas quizá a que al ser ya casi verano la gente apenas se ha fijado en ellas.
+
+## Perfil de los participantes
+
+### Género
+
+```{r}
+table(datos25$genero) %>% 
+  prop.table() %>% 
+  round(4) * 100
+
+table(datos$genero, datos$intercambio) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+
+```
+
+Tres de cada cuatro participantes han sido mujeres. En cambio, solo un 18% de las personas que se pasaron por el intercambio fueron hombres, habiendo también un 6% de personas que se identifican como no binario. Estas cifras son muy similares a las existentes en todos los intercambios anteriores, habiéndose incluso reducido ligeramente la participación masculina en los últimos intercambios.
+
+Además, entre los hombres que han venido el porcentaje de quienes intercambian es bastante menor que entre las mujeres, destacando más los que solo se han llevado ropa o solo la han traído.
+
+```{r}
+table(datos25$tipos_participantes, datos25$genero) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+```
+
+### Universidad
+
+```{r}
+table(datos$uni, datos$intercambio) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+```
+
+::: {#datawrapper-vis-gELjE style="min-height:362px"}
+```{=html}
+<script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gELjE/embed.js" charset="utf-8" data-target="#datawrapper-vis-gELjE"></script>
+```
+
+<noscript><img src="https://datawrapper.dwcdn.net/gELjE/full.png"/></noscript>
+:::
+
+La gran mayoría de las personas que participan en los intercambios son de la Carlos III. En este último intercambio también ha habido un número mayor de personas que venían de la Complutense, pero la capacidad para atraer personas que no sean de la universidad en la que se celebra sigue siendo limitada. Asimismo, mientras que en los primeros intercambios 1 de cada 10 personas que venían no eran universitarias, desde la edición anterior esta cifra se ha reducido a la mitad.
+
+Quizá sería interesante preguntar en un futuro a los de la UC3M de qué campus son, para ver si solo vienen los de esta universidad en general o únicamente los de alguno de los campus. Sería especialmente llamativo comprobar hasta qué punto viene gente que estudia en Leganés o solo los que son de Getafe, que es lo más probable.
+
+## ¿Por qué conocen el intercambio?
+
+```{r}
+
+datos_participantes <- datos %>% 
+  filter(participantes == 1)
+
+table(datos_participantes$apuntado_antes, datos_participantes$intercambio) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+```
+
+Casi la mitad de las personas que participaron se inscribieron durante el intercambio, no antes. La cifra es algo mayor que en intercambios anteriores, aunque la diferencia no es muy llamativa (solo en comparación al anterior, el de noviembre, donde un 60% se inscribieron en el momento). Pero, ¿Por qué conocen el intercambio quienes vienen?
+
+```{r}
+table(datos$conocimiento_intercambio, datos$intercambio) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+```
+
+Un tercio de las personas que vinieron al intercambio lo hicieron porque conocían a alguien que lo organizaba, y otro tercio gracias a la comunicación en la universidad (los carteles). Asimismo, también hay un gran número de personas a quienes convencen sus amigos para pasarse por el intercambio, un 25%. En cambio, la comunicación en las rrss de MUCAM no ha sido tan efectiva en este intercambio como en ocasiones anteriores. (*Pero se debe tener en cuenta que la comparación con otros intercambios de esta pregunta puede no ser demasiado precisa, porque las categorías de las respuestas del cuestionario nunca han sido las mismas).*
+
+### Fieles al intercambio
+
+```{r}
+table(datos25$fiel_intercambio, datos25$repetidor) %>% 
+  prop.table(2) %>% 
+  round(4) * 100
+```
+
+La mitad de las personas que afirmaron haber venido varias veces estaban marcadas como que era su primer o segundo intercambio. Esto demuestra que el método usado para identificar quiénes eran repetidores tenía varias fallos, tanto a la hora de marcar correctamente quienes habían venido con anterioridad, como por la falta de datos de los intercambios que no estaban completamente organizados por MUCAM. Quienes vienen no saben distinguir estos intercambios de los demás, por lo que pueden decir que han venido a más intercambios de los que se están teniendo en cuenta.
+
+Además, habría que mejorar la forma en la que se indica si una persona ha venido más veces si se quiere volver a hacer lo de darles algún regalo o algo parecido. Muchas veces se pasaba por alto que habían venido varias veces, sobre todo si coincidía con los momentos en los que más gente estaba llegando y mas rápido había que atender a la gente.

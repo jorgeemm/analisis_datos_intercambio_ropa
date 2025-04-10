@@ -1,0 +1,944 @@
+"","intercambio","genero","uni","conocimiento_intercambio","prendas_entrada","prendas_salida","puntos_entrada","puntos_salida","hora_inscripcion","destacable_evento","repetidor","puntos_extra","puntos_antes","hora_entrada","fiel_intercambio","entrada_prenda_1","entrada_prenda_2","entrada_prenda_3","entrada_prenda_4","entrada_prenda_5","hora_salida","salida_prenda_1","salida_prenda_2","salida_prenda_3","salida_prenda_4","salida_prenda_5","salida_prenda_6","salida_prenda_7","salida_prenda_8","salida_prenda_9"
+"1","2023_11","Hombre","UC3M","Amigos",NA,NA,NA,NA,2023-11-29 12:36:17.009,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","2023_11","Mujer","No soy de la Universidad","Amigo organizador",7,2,25,19,2023-11-21 23:10:31.052,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","2023_11","Mujer","URJC","Amigo organizador",NA,NA,NA,NA,2023-11-21 22:55:02.329,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","2023_11","Mujer","UAH","Otros",NA,NA,NA,NA,2023-11-28 07:20:18.211,"El Intercambio de ropa, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","2023_11","Hombre","UC3M","Amigo organizador",3,3,13,3,2023-11-28 00:10:23.459,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-28 12:18:38.855,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","2023_11","Mujer","UC3M","Comunicación UC3M",5,5,17,0,2023-11-29 14:13:02.067,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","2023_11","Hombre","No soy de la Universidad","Amigos",NA,NA,NA,NA,2023-11-26 20:25:12.556,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","2023_11","Hombre","UC3M","Otros",9,7,26,-1,2023-11-21 17:25:50.879,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","2023_11","Mujer","UC3M","Amigos",4,2,17,8,2023-11-29 12:13:16.389,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","2023_11","Mujer","No soy de la Universidad","Amigo organizador",5,3,20,10,2023-11-21 19:11:58.064,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","2023_11","Mujer","UC3M","Comunicación UC3M",1,1,3,0,2023-11-27 10:39:46.685,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-21 23:28:15.313,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","2023_11","Mujer","UC3M","Comunicación UC3M",4,4,10,1,2023-11-28 12:23:15.796,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","2023_11","No binario","UC3M","Comunicación UC3M",5,4,12,0,2023-11-29 12:02:04.559,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 12:38:15.75,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","2023_11","Hombre","UC3M","Comunicación UC3M",3,1,18,14,2023-11-24 17:22:11.785,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","2023_11","Mujer","UC3M","Amigo organizador",14,1,44,28,2023-11-29 10:07:24.557,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-24 18:08:35.733,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","2023_11","Mujer","UC3M","Comunicación UC3M",5,3,16,9,2023-11-29 00:29:58.108,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","2023_11","Mujer","UC3M","Amigos",2,NA,9,NA,2023-11-29 13:03:24.939,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","2023_11","Mujer","No soy de la Universidad","Otros",5,6,24,3,2023-11-28 00:12:46.616,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","2023_11","Mujer",NA,"Otros",4,4,10,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","2023_11","Mujer","UC3M","Amigo organizador",4,4,13,2,2023-11-21 20:38:27.499,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-21 23:09:41.78,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","2023_11","Mujer","UC3M","Amigo organizador",21,NA,78,64,2023-11-27 14:31:03.229,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","2023_11","Hombre","UC3M","Amigo organizador",10,3,30,23,2023-11-29 10:53:28.419,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","2023_11","Mujer","UC3M","Redes MUCAM",7,1,18,12,2023-11-23 00:47:06.058,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","2023_11","Mujer","UC3M","Material impreso",NA,NA,NA,NA,2023-11-28 12:27:28.635,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 08:48:29.299,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","2023_11","Mujer","UC3M","Amigos",5,3,14,4,2023-11-23 20:55:59.092,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","2023_11","Mujer","UAH","Amigos",NA,NA,NA,NA,2023-11-22 13:07:53.828,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 13:43:34.842,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","2023_11","Mujer","UC3M","Comunicación UC3M",5,3,13,0,2023-11-24 17:24:10.607,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","2023_11","Mujer","URJC","Amigo organizador",NA,NA,NA,NA,2023-11-27 20:38:41.974,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 12:53:31.618,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","2023_11","Mujer","No soy de la Universidad","Otros",10,NA,35,NA,2023-11-29 11:13:56.883,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","2023_11","Mujer","URJC","Amigos",5,6,20,1,2023-11-28 17:37:23.603,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","2023_11","Hombre","UC3M","Comunicación UC3M",NA,1,NA,0,2023-11-29 17:52:55.86,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","2023_11","Mujer","No soy de la Universidad","Otros",NA,NA,NA,NA,2023-11-27 20:49:04.44,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","2023_11","Mujer","URJC","Amigos",NA,NA,NA,NA,2023-11-23 10:39:53.427,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","2023_11","Mujer","UC3M","Comunicación UC3M",11,7,30,10,2023-11-29 13:29:30.182,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","2023_11","Mujer","UC3M","Amigo organizador",9,10,53,25,2023-11-29 10:28:28.496,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","2023_11","Hombre","UC3M","Comunicación UC3M",7,9,30,1,2023-11-28 12:04:17.305,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-21 23:26:31.646,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","2023_11","Mujer","Escuni","Amigos",NA,NA,NA,NA,2023-11-22 11:52:37.721,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","2023_11","Mujer","UPM","Amigo organizador",6,8,76,3,2023-11-22 21:39:07.023,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","2023_11","Mujer","UC3M","Amigo organizador",6,NA,19,NA,2023-11-29 15:45:10.659,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","2023_11","Hombre","UC3M","Comunicación UC3M",2,3,10,2,2023-11-29 11:45:09.181,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","2023_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2023-11-27 20:25:16.047,"Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 14:08:29.453,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","2023_11","Hombre","UEM","Amigos",5,3,18,9,2023-11-29 10:31:38.978,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","2023_11","Hombre","UC3M","Amigo organizador",6,1,12,10,2023-11-28 21:00:58.142,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","2023_11","Mujer","UC3M","Redes MUCAM",5,NA,14,NA,2023-11-23 10:51:54.277,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","2023_11","Mujer","No soy de la Universidad","Comunicación UC3M",NA,NA,NA,NA,2023-11-27 23:11:53.737,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","2023_11","Mujer","UC3M","Comunicación UC3M",NA,1,NA,NA,2023-11-29 17:53:17.966,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","2023_11","Hombre","UC3M","Comunicación UC3M",1,NA,3,0,2023-11-29 16:24:57.187,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","2023_11","Mujer","UC3M","Amigos",5,7,26,2,2023-11-28 20:18:11.069,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-29 14:40:31.279,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","2023_11","Mujer","UC3M","Comunicación UC3M",4,2,9,0,2023-11-29 16:12:01.172,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","2023_11","Mujer","UC3M","Amigos",1,1,3,0,2023-11-28 16:39:49.241,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","2023_11","Mujer","UC3M","Material impreso",NA,NA,NA,NA,2023-11-22 22:09:16.332,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","2023_11","Hombre","UC3M","Amigo organizador",5,5,30,12,2023-11-29 11:16:28.741,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","2023_11","Mujer","UC3M","Comunicación UC3M",2,NA,8,NA,2023-11-29 16:17:53.937,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","2023_11","Mujer","UC3M","Comunicación UC3M",2,4,13,0,2023-11-29 12:07:33.38,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 11:42:03.802,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","2023_11","Mujer","UC3M","Amigos",5,NA,10,NA,2023-11-29 12:04:37.639,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","2023_11","Hombre","UC3M","Amigo organizador",5,1,18,16,2023-11-21 21:08:45.117,"Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-28 11:45:34.786,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","2023_11","No binario","IES Alberto corazón","Amigos",NA,NA,NA,NA,2023-11-27 21:49:19.482,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","2023_11","No binario","No soy de la Universidad","Amigos",6,3,18,11,2023-11-29 16:41:58.183,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","2023_11","Mujer","UC3M","Comunicación UC3M",1,NA,2,NA,2023-11-29 12:07:05.688,"Sostenibilidad",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","2023_11","Mujer","UC3M","Comunicación UC3M",3,4,13,0,2023-11-29 12:12:59.519,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","2023_11","Mujer","Francisco de vitoria","Amigo organizador",NA,NA,NA,NA,2023-11-24 17:26:38.07,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","2023_11","Mujer","UC3M","Comunicación UC3M",5,5,17,-1,2023-11-24 17:29:35.656,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 12:41:08.627,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","2023_11","Hombre","UC3M","Amigo organizador",4,NA,14,NA,2023-11-21 21:49:42.168,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","2023_11","Hombre","UC3M","Amigo organizador",3,2,10,4,2023-11-21 21:21:45.224,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","2023_11","Hombre","UC3M","Amigos",2,NA,12,NA,2023-11-26 14:27:30.657,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","2023_11","Hombre","UC3M","Amigo organizador",5,NA,30,NA,2023-11-29 16:04:57.637,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","2023_11","Hombre","UC3M","Amigos",5,1,15,11,2023-11-29 13:02:51.967,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","2023_11","Mujer","No soy de la Universidad","Amigo organizador",7,7,23,22,2023-11-29 16:45:07.871,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","2023_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2023-11-21 17:35:42.997,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 15:35:49.827,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","2023_11","No binario","UC3M","Amigo organizador",NA,NA,NA,NA,2023-11-25 18:17:47.125,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","2023_11","Mujer","UC3M","Amigo organizador",10,1,32,4,2023-11-21 21:24:09.797,"Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","2023_11","Mujer","Uam","Amigo organizador",NA,NA,NA,NA,2023-11-21 23:00:04.37,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","2023_11","Mujer","No soy de la Universidad","Amigo organizador",4,3,16,9,2023-11-27 23:21:32.575,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","2023_11","Mujer","UC3M","Amigo organizador",1,1,30,29,2023-11-21 21:13:00.023,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","2023_11","Hombre","UC3M","Comunicación UC3M",NA,1,NA,NA,2023-11-29 16:35:50.663,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 14:42:38.004,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 16:35:12.676,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","2023_11","Hombre","UC3M","Amigo organizador",NA,2,27,19,2023-11-21 18:54:22.168,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, mi amiga que es un poco pesada a veces pero hay que quererla",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","2023_11","Hombre","UPM","Redes MUCAM",NA,NA,NA,NA,2023-11-27 21:14:17.855,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","2023_11","Hombre","UC3M","Amigo organizador",4,3,14,2,2023-11-29 16:15:25.103,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","2023_11","Hombre","UC3M","Amigo organizador",NA,2,30,25,2023-11-29 13:02:57.267,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","2023_11","Hombre","UC3M","Amigos",5,3,14,6,2023-11-29 18:30:11.792,"Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","2023_11","Hombre","UC3M","Amigo organizador",16,2,30,20,2023-11-29 13:02:40.273,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 14:48:11.183,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","2023_11","Mujer","UC3M","Amigos",3,NA,10,NA,2023-11-29 16:33:56.96,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","2023_11","Mujer","UC3M","Comunicación UC3M",5,6,22,0,2023-11-28 11:37:57.775,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","2023_11","Hombre","No soy de la Universidad","Amigo organizador",3,NA,6,NA,2023-11-27 21:27:32.668,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","2023_11","Mujer","No soy de la Universidad","Otros",NA,NA,NA,NA,2023-11-27 20:41:05.351,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 15:04:09.651,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","2023_11","Mujer","No soy de la Universidad","Amigos",NA,NA,NA,NA,2023-11-27 10:29:04.888,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","2023_11","No binario","UC3M","Amigos",NA,NA,NA,NA,2023-11-21 22:43:01.562,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","2023_11","No binario","UC3M","Amigos",NA,1,NA,NA,2023-11-29 15:47:37.562,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","2023_11","Mujer","UC3M","Material impreso",NA,NA,NA,NA,2023-11-28 12:27:06.992,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","2023_11","Mujer","UC3M","Amigos",1,1,4,0,2023-11-28 14:04:12.308,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","2023_11","Mujer","UC3M","Redes MUCAM",30,1,30,18,2023-11-29 12:17:37.571,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","2023_11","Mujer","UC3M","Comunicación UC3M",5,NA,38,NA,2023-11-29 13:02:43.818,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","2023_11","Mujer","UC3M","Comunicación UC3M",5,5,20,2,2023-11-29 16:21:54.368,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","2023_11","Mujer","No soy de la Universidad","Amigos",NA,NA,NA,NA,2023-11-21 22:53:35.629,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","2023_11","Mujer","UC3M","Comunicación UC3M",NA,3,11,0,2023-11-29 14:13:42.202,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","2023_11","Mujer","UC3M","Amigo organizador",2,1,6,4,2023-11-29 16:18:48.842,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-21 22:25:31.095,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","2023_11","Hombre","UC3M","Amigos",NA,NA,NA,NA,2023-11-29 11:15:47.418,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","2023_11","Mujer","UC3M","Amigos",2,NA,6,NA,2023-11-21 23:22:39.735,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","2023_11","Mujer","UC3M","Amigos",4,3,15,8,2023-11-23 11:58:12.151,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-24 20:48:15.383,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","2023_11","Mujer","UC3M","Amigos",1,1,4,0,2023-11-29 12:13:51.592,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","2023_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2023-11-29 14:17:04.557,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","2023_11","Mujer","UC3M","Otros",14,8,54,5,2023-11-21 16:25:54.294,"Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 18:21:22.147,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","2023_11","Mujer","UC3M","Otros",5,5,22,7,2023-11-21 16:46:45.956,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","2023_11","Mujer","No soy de la Universidad","Amigo organizador",3,3,9,8,2023-11-29 16:52:39.648,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","2023_11","Mujer","URJC","Amigos",NA,NA,NA,NA,2023-11-28 15:07:06.054,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","2023_11","Mujer","No soy de la Universidad","Otros",NA,NA,NA,NA,2023-11-29 01:23:10.625,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","2023_11","Mujer","UC3M","Amigo organizador",7,7,26,3,2023-11-25 18:17:45.379,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","2023_11","Hombre","UC3M","Amigos",NA,NA,NA,NA,2023-11-22 17:51:07.128,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","2023_11","Hombre","URJC","Amigo organizador",5,3,20,4,2023-11-24 14:05:01.888,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","2023_11","Mujer","URJC","Redes MUCAM",NA,NA,NA,NA,2023-11-27 20:05:07.876,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","2023_11","Mujer","UC3M","Comunicación UC3M",NA,3,7,0,2023-11-29 16:37:48.202,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","2023_11","Mujer","UC3M","Amigo organizador",8,3,30,22,2023-11-21 22:24:46.537,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","2023_11","Mujer","URJC","Amigos",NA,NA,NA,NA,2023-11-24 12:41:11.658,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","2023_11","Mujer","UC3M","Comunicación UC3M",1,2,6,0,2023-11-28 11:35:08.109,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 11:49:53.466,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","2023_11","Mujer","UC3M","Redes MUCAM",5,4,20,1,2023-11-21 22:23:43.983,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","2023_11","Mujer","UEM","Comunicación UC3M",5,1,17,14,2023-11-21 22:56:00.047,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-24 17:34:53.96,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","2023_11","Mujer","UPM","Amigo organizador",4,5,50,8,2023-11-26 15:52:26.251,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-21 20:38:40.886,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","2023_11","Mujer","No soy de la Universidad","Amigo organizador",1,1,2,0,2023-11-29 14:02:08.846,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","2023_11","Mujer","UC3M","Redes MUCAM",NA,NA,NA,NA,2023-11-27 08:16:16.868,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Sección de prendas de fiesta, Que siga esta iniciativa adelante. Gracias, que vaya bien también (como otras veces u otras actividades relacionadas), gracias y saludos!",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","2023_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2023-11-28 13:01:10.951,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","2023_11","Mujer","UC3M","Comunicación UC3M",4,4,14,3,2023-11-28 12:18:18.124,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","2023_11","Mujer","UC3M","Otros",3,2,12,7,2023-11-29 00:40:17.371,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","2023_11","Mujer","UC3M","Redes MUCAM",NA,NA,NA,NA,2023-11-22 08:18:36.309,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","2023_11","Mujer","UC3M","Comunicación UC3M",4,3,20,9,2023-11-28 12:16:20.872,"El Intercambio de ropa, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","2023_11","Mujer","UC3M","Redes MUCAM",3,NA,7,NA,2023-11-29 12:05:44.496,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","2023_11","Mujer","No soy de la Universidad","Redes MUCAM",NA,NA,NA,NA,2023-11-21 22:18:46.474,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","2023_11","Mujer","No soy de la Universidad","Amigo organizador",NA,NA,NA,NA,2023-11-22 12:08:31.489,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","2023_11","Mujer","UC3M","Amigo organizador",3,1,11,7,2023-11-23 15:35:16.364,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","2023_11","Mujer","UC3M","Comunicación UC3M",4,6,28,0,2023-11-25 13:33:20.06,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","2023_11","Mujer","URJC","Amigos",NA,NA,NA,NA,2023-11-27 11:08:46.532,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","2023_11","Mujer","UC3M","Comunicación UC3M",3,NA,12,NA,2023-11-28 12:18:11.811,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","2023_11","Mujer","UC3M","Comunicación UC3M",7,2,23,16,2023-11-28 09:07:29.535,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","2023_11","Hombre","UC3M","Amigos",5,2,7,0,2023-11-29 14:05:02.213,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-24 18:40:41.486,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","2023_11","Hombre","UC3M","Amigos",NA,NA,NA,NA,2023-11-29 16:47:15.586,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","2023_11","Mujer","UC3M","Redes MUCAM",4,4,12,1,2023-11-22 19:03:25.798,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-26 15:06:25.974,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 12:49:46.144,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","2023_11","Mujer","UC3M","Amigos",5,NA,21,NA,2023-11-23 08:52:45.386,"El Intercambio de ropa, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-26 03:46:23.318,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","2023_11","No binario","No soy de la Universidad","Amigos",NA,NA,NA,NA,2023-11-25 19:48:53.974,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","2023_11","No binario","No soy de la Universidad","Amigos",4,2,16,6,2023-11-29 16:21:26.381,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","2023_11","Mujer","URJC","Amigo organizador",NA,2,NA,-6,2023-11-23 10:44:54.603,"Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","2023_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2023-11-23 11:05:40.472,"El Intercambio de ropa, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","2023_11","Mujer","UC3M","Amigos",2,2,5,0,2023-11-29 16:35:08.606,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","2023_11","Mujer","UC3M","Amigos",2,4,12,0,2023-11-27 17:24:39.208,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","2023_11","Mujer","UPM","Comunicación UC3M",NA,NA,NA,NA,2023-11-27 20:29:21.077,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","2023_11","Hombre","UC3M","Amigo organizador",5,2,16,8,2023-11-28 22:42:16.676,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","2023_11","Hombre","UC3M","Amigos",5,3,26,18,2023-11-27 22:19:22.05,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","2023_11","Hombre","UC3M","Comunicación UC3M",5,1,16,14,2023-11-29 11:20:44.941,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-22 20:50:02.704,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","2023_11","Hombre","URJC","Amigos",5,3,15,5,2023-11-23 11:15:13.771,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","2023_11","Hombre","UC3M","Comunicación UC3M",5,NA,16,NA,2023-11-29 11:59:17.309,"Dar ropa a la gente que necesite la verdad.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","2023_11","Mujer","URJC","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 21:37:05.966,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","2023_11","Mujer","UC3M","Comunicación UC3M",1,3,6,0,2023-11-28 11:46:18.68,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","2023_11","Mujer","UC3M","Redes MUCAM",4,3,15,6,2023-11-21 22:39:18.804,"Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","2023_11","Mujer","UC3M","Amigos",5,3,16,6,2023-11-29 12:08:31.081,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","2023_11","Mujer","UC3M","Amigos",5,4,18,3,2023-11-29 12:14:31.296,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-21 22:58:14.493,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","2023_11","Mujer","UC3M","Comunicación UC3M",4,5,24,1,2023-11-28 13:00:36.883,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","2023_11","Hombre","UC3M","Amigo organizador",2,NA,6,NA,2023-11-29 15:50:18.909,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","2023_11","Mujer","No soy de la Universidad","Amigo organizador",5,3,20,5,2023-11-21 19:41:45.819,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","2023_11","Mujer","URJC","Otros",5,0,17,4,2023-11-27 01:31:19.008,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","2023_11","Mujer","UC3M","Redes MUCAM",5,6,20,0,2023-11-27 08:07:15.338,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-22 09:12:29.941,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","2023_11","Hombre","UC3M","Amigos",2,0,4,0,2023-11-29 14:14:38.62,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","2023_11","Mujer","UC3M","Amigo organizador",NA,6,26,7,2023-11-29 13:08:26.384,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","2023_11","No binario","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-26 22:53:41.367,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema, Taller de Upcycling (DIY), Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 12:00:11.449,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-22 19:09:00.698,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","2023_11","No binario","UC3M","Otros",5,4,5,3,2023-11-29 11:38:01.848,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","2023_11","Mujer","UC3M","Amigo organizador",NA,5,21,3,2023-11-21 22:57:15.494,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","2023_11","Mujer","No soy de la Universidad","Amigos",NA,NA,NA,NA,2023-11-22 12:29:25.104,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","2023_11","Mujer","UC3M","Comunicación UC3M",5,4,21,7,2023-11-29 12:19:46.737,"El Intercambio de ropa, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","2023_11","Mujer","UC3M","Redes MUCAM",5,4,18,0,2023-11-29 12:27:41.376,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","2023_11",NA,NA,"Otros",4,6,19,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","2023_11","Mujer","UC3M","Amigo organizador",22,5,72,19,2023-11-21 22:15:09.815,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","2023_11","Mujer","UC3M","Amigo organizador",3,4,13,2,2023-11-29 13:44:16.666,"El Intercambio de ropa, Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","2023_11","Hombre","UC3M","Amigo organizador",2,1,6,4,2023-11-21 22:33:24.811,"Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 11:42:30.954,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","2023_11","Mujer","No soy de la Universidad","Amigo organizador",NA,NA,NA,NA,2023-11-22 11:48:21.728,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","2023_11","Mujer","UC3M","Redes MUCAM",3,1,9,7,2023-11-23 11:43:43.944,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 08:54:33.9,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","2023_11","Mujer","UC3M","Comunicación UC3M",5,3,18,10,2023-11-25 22:28:37.181,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","2023_11","Mujer","No soy de la Universidad","Amigo organizador",5,5,19,3,2023-11-24 14:11:56.286,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","2023_11","Mujer","UC3M","Otros",NA,1,NA,NA,2023-11-29 18:06:18.964,"El Intercambio de ropa, Conocer a gente que le interesa el tema, Sección de prendas de fiesta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","2023_11","Mujer","No soy de la Universidad","Comunicación UC3M",5,8,26,0,2023-11-24 17:35:03.163,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","2023_11","Mujer","UC3M","Comunicación UC3M",3,2,8,2,2023-11-28 10:55:03.399,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","2023_11","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-29 10:37:20.597,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","2023_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2023-11-28 12:36:12.835,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","2023_11","Mujer","UC3M","Comunicación UC3M",6,6,23,0,2023-11-26 23:09:44.444,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","2023_11","Hombre","UC3M","Comunicación UC3M",3,2,12,2,2023-11-29 12:50:29.097,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","2023_11","Mujer","UC3M","Comunicación UC3M",6,NA,21,0,2023-11-28 12:15:18.653,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","2023_11","Mujer","No soy de la Universidad","Otros",NA,NA,NA,NA,2023-11-28 12:46:06.221,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","2023_11","Hombre","UC3M","Otros",1,1,1,4,2023-11-29 16:39:27.41,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","2023_11","Mujer","UC3M","Amigo organizador",7,3,32,24,2023-11-29 10:58:34.109,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","2023_11","Mujer","UC3M","Comunicación UC3M",7,4,21,10,2023-11-28 08:58:54.058,"El Intercambio de ropa, Conocer a gente que le interesa el tema",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","2023_11","Mujer","UC3M","Comunicación UC3M",3,NA,14,NA,2023-11-29 15:00:18.637,"El Intercambio de ropa, Taller de Upcycling (DIY)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","2023_11","Mujer","No soy de la Universidad","Amigo organizador",6,3,21,10,2023-11-27 23:20:24.107,"El Intercambio de ropa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","2023_11","Mujer","UC3M","Comunicación UC3M",5,4,23,9,2023-11-27 12:07:30.942,"Aprender sobre el fast-fashion, la campaña pre-navideña y su impacto",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","2024_4","Mujer","UC3M","Redes MUCAM",22,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","2024_4","Mujer","UC3M","Redes MUCAM",7,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","2024_4","Mujer","UC3M","Redes MUCAM",8,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","2024_4","Mujer","UC3M","Amigo organizador",NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","2024_4","Mujer","UC3M","Amigos",5,4,19,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","2024_4","Hombre","UC3M","Amigos",NA,2,30,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","2024_4","Mujer","UC3M","Amigos",5,4,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","2024_4","Mujer","UC3M","Otros intercambios",5,3,20,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","2024_4","Mujer","UC3M","Amigos",3,1,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","2024_4","Mujer","UC3M","Otros intercambios",5,5,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","2024_4","Mujer","UC3M","Redes MUCAM",5,-8,23,-5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","2024_4","Hombre","UC3M","Redes MUCAM",11,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","2024_4","Hombre","UC3M","Redes MUCAM",2,4,8,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","2024_4","Mujer","UC3M","Redes MUCAM",12,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","2024_4","Hombre","URJC","Amigo organizador",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","2024_4","Mujer","UC3M","Redes MUCAM",5,NA,15,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","2024_4","Hombre","UC3M","Redes MUCAM",3,1,12,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","2024_4","Mujer","UC3M","Otros intercambios",NA,4,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","2024_4","No binario","UC3M","Otros intercambios",1,1,18,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","2024_4","Mujer","UC3M","Comunicación UC3M",NA,6,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","2024_4","Mujer","UC3M","Otros intercambios",5,10,27,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","2024_4","Mujer","UC3M","Otros intercambios",3,2,12,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","2024_4","Mujer","UC3M","Otros intercambios",5,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","2024_4","Hombre","UC3M","Redes MUCAM",1,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","2024_4","Mujer","UC3M","Otros intercambios",5,5,19,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","2024_4","Mujer","No soy de la universidad...","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","2024_4","Hombre","UC3M","Redes MUCAM",3,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","2024_4","Mujer","UC3M","Otros intercambios",4,2,20,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","2024_4","Mujer","No soy de la universidad...","Otros intercambios",5,7,23,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","2024_4","Mujer","No soy de la universidad...","Amigo organizador",3,2,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","2024_4","Mujer","UC3M","Otros intercambios",5,3,23,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","2024_4","Mujer","URJC","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","2024_4","No binario","UC3M","Redes MUCAM",2,1,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","2024_4","Mujer","UC3M","Otros intercambios",5,7,22,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","2024_4","Mujer","UC3M","Otros intercambios",5,4,18,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","2024_4","Mujer","UC3M","Amigos",3,4,12,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","2024_4","Mujer","UC3M","Otros intercambios",NA,1,22,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","2024_4","Mujer","UC3M","Redes MUCAM",5,4,19,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","2024_4","Mujer","No soy de la universidad...","Amigo organizador",NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","2024_4","Mujer","UC3M","Amigos",NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","2024_4","Mujer","UC3M","Comunicación UC3M",5,4,16,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280","2024_4","Hombre","UC3M","Amigo organizador",2,2,18,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","2024_4","Mujer","UC3M","Amigo organizador",4,5,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","2024_4","Mujer","URJC","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","2024_4","Mujer","No soy de la universidad...","Amigos",5,4,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284","2024_4","Mujer","UC3M","Comunicación UC3M",5,5,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","2024_4","Mujer","No soy de la universidad...","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","2024_4","Mujer","No soy de la universidad...","Amigo organizador",NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","2024_4","Hombre","UC3M","Comunicación UC3M",5,4,11,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","2024_4","Mujer","UC3M","Otros intercambios",2,1,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","2024_4","Mujer","No soy de la universidad...","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292","2024_4","Mujer","UC3M","Otros intercambios",5,3,12,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","2024_4","No binario","UC3M","Comunicación UC3M",2,2,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","2024_4","Mujer","UC3M","Comunicación UC3M",1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295","2024_4","Mujer","UC3M","Amigo organizador",5,5,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","2024_4","Hombre","URJC","Amigo organizador",4,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","2024_4","Mujer","No soy de la universidad...","Otros intercambios",4,4,18,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","2024_4","Hombre","No soy de la universidad...","Otros intercambios",5,4,16,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","2024_4","Hombre","UC3M","Comunicación UC3M",5,NA,15,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","2024_4","Mujer","UC3M","Otros intercambios",4,2,18,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305","2024_4","Mujer","UC3M","Comunicación UC3M",5,5,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","2024_4","Mujer","UC3M","Amigo organizador",2,1,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","2024_4","Mujer","UC3M","Comunicación UC3M",5,2,11,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308","2024_4","Mujer","UC3M","Amigos",5,1,17,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","2024_4","Mujer","UC3M","Amigo organizador",NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","2024_4","Mujer","No soy de la universidad...","Comunicación UC3M",5,6,19,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","2024_4","Hombre","UC3M","Amigo organizador",4,1,NA,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","2024_4","Mujer","UC3M","Amigo organizador",5,5,14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","2024_4","Mujer","URJC","Comunicación UC3M",3,2,30,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","2024_4","Mujer","UC3M","Otros intercambios",4,3,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","2024_4","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","2024_4","Mujer","UC3M","Amigo organizador",5,3,15,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","2024_4","Mujer","URJC","Redes MUCAM",5,3,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","2024_4","Mujer","UC3M","Amigo organizador",1,1,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","2024_4","Mujer","UC3M","Comunicación UC3M",4,2,11,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","2024_4","No binario","UC3M","Amigos",5,3,13,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","2024_4","Mujer","UC3M","Otros intercambios",5,5,19,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","2024_4","Mujer","UC3M","Comunicación UC3M",4,4,15,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","2024_4","Hombre","UC3M","Comunicación UC3M",5,4,17,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","2024_4","No binario","UC3M","Amigos",5,6,18,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","2024_4","Mujer","No soy de la universidad...","Amigo organizador",6,6,35,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","2024_4","Mujer","UC3M","Otros intercambios",5,4,23,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","2024_4","Mujer","UC3M","Amigos",2,3,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","2024_4","Mujer","No soy de la universidad...","Amigo organizador",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337","2024_4","Hombre","UC3M","Amigo organizador",3,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","2024_4","Mujer","No soy de la universidad...","Redes MUCAM",3,5,23,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","2024_4","Mujer","URJC","Amigo organizador",8,6,30,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340","2024_4","Mujer","UC3M","Amigos",3,4,12,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","2024_4","Mujer","UC3M","Comunicación UC3M",4,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","2024_4","Mujer","UC3M","Comunicación UC3M",5,7,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343","2024_4","Hombre","UC3M","Amigo organizador",2,1,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344","2024_4","Mujer","UC3M","Amigo organizador",4,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","2024_4","Mujer","UC3M","Comunicación UC3M",5,1,14,-8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","2024_4","Hombre","UC3M","Amigos",2,1,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","2024_4","Mujer","UC3M","Amigo organizador",5,5,14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","2024_4","Hombre","UC3M","Amigos",3,3,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","2024_4","No binario","UC3M","Amigos",5,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"350","2024_4","Mujer","UC3M","Amigos",2,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","2024_4","Mujer","UC3M","Amigos",NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"352","2024_4","Hombre","UC3M","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","2024_4","Hombre","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","2024_4","Mujer","UC3M","Amigos",4,3,14,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","2024_4","Hombre","UC3M","Amigo organizador",NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","2024_4","Hombre","UC3M","Otros intercambios",NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","2024_4","Mujer","UC3M","Amigos",5,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","2024_4","Mujer","UC3M","Comunicación UC3M",5,4,12,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"360","2024_4","Mujer","UPM","Amigo organizador",5,1,13,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","2024_4","Mujer","UC3M","Amigos",5,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362","2024_4","Mujer","UC3M","Comunicación UC3M",5,3,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","2024_4","Mujer","UC3M","Amigo organizador",5,3,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","2024_4","Mujer","UC3M","Amigos",5,6,23,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","2024_4","Mujer","UC3M","Amigos",5,4,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","2024_4","Mujer","UC3M","Comunicación UC3M",4,4,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","2024_4","Mujer","UC3M","Comunicación UC3M",2,2,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","2024_4","Mujer","UC3M","Comunicación UC3M",5,3,20,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370","2024_4","Mujer","UC3M","Otros intercambios",3,4,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","2024_4","Hombre","UC3M","Amigo organizador",NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","2024_4","Mujer","UC3M","Amigos",4,3,10,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","2024_4","Mujer","UC3M","Amigo organizador",4,3,18,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","2024_4","Mujer","UC3M","Amigos",4,1,10,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","2024_4","Hombre","UC3M","Amigos",5,1,13,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","2024_4","Hombre","UC3M","Amigos",5,6,20,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","2024_4","Mujer","UC3M","Amigos",5,6,17,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","2024_4","Mujer","UC3M","Comunicación UC3M",3,3,10,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","2024_4","Mujer","UC3M","Amigos",4,1,9,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","2024_4","Hombre","URJC","Amigo organizador",2,3,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","2024_4","Mujer","UC3M","Amigo organizador",5,5,17,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","2024_4","Mujer","No soy de la universidad...","Otros intercambios",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","2024_4","Hombre","UC3M","Amigos",5,5,15,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","2024_4","Mujer","UC3M","Otros intercambios",5,1,12,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","2024_4","Mujer","UC3M","Amigos",3,1,8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","2024_4","Mujer","UC3M","Otros intercambios",5,8,25,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","2024_4","Mujer","UPM","Comunicación UC3M",5,4,17,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","2024_4","Hombre","UC3M","Amigo organizador",6,2,12,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","2024_4","Mujer","UC3M","Amigos",5,1,14,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","2024_4","Mujer","UC3M","Amigos",4,1,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","2024_4","Mujer","UC3M","Otros intercambios",5,4,14,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","2024_4","Mujer","No soy de la universidad...","Amigo organizador",5,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","2024_4","Mujer","UC3M","Amigos",5,4,13,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","2024_4","Mujer","UC3M","Comunicación UC3M",3,2,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","2024_4","Mujer","UC3M","Amigos",4,2,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","2024_4","Mujer","UC3M","Amigos",5,4,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","2024_4","Mujer","UC3M","Amigo organizador",4,1,14,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","2024_4","Mujer","UC3M","Amigo organizador",5,6,17,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","2024_4","Mujer","UC3M","Otros intercambios",4,3,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","2024_4","Mujer","UC3M","Amigo organizador",5,2,19,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","2024_4","Mujer","UC3M","Amigos",4,2,12,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","2024_4","Mujer","No soy de la universidad...","Amigos",3,3,11,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","2024_4","Mujer","UC3M","Amigos",5,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","2024_4","Mujer","UC3M","Amigos",3,1,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","2024_4","Hombre","No soy de la universidad...","Amigo organizador",1,2,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","2024_4","Mujer","UC3M","Amigo organizador",5,4,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","2024_4","Mujer","UC3M","Comunicación UC3M",4,4,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","2024_4","Mujer","UC3M","Amigos",4,3,14,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","2024_4","Mujer","UC3M","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","2024_4","Mujer","UC3M","Otros intercambios",5,3,18,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","2024_4","Mujer","UC3M","Amigos",5,4,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","2024_4","Mujer","UC3M","Amigo organizador",5,2,13,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","2024_4","Hombre","No soy de la universidad...","Amigos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","2024_4","Hombre","UC3M","Comunicación UC3M",3,3,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","2024_4","Mujer","No soy de la universidad...","Amigos",4,3,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","2024_4","Mujer","UC3M","Comunicación UC3M",NA,1,14,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"428","2024_4","Hombre","UC3M","Otros intercambios",5,2,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"429","2024_4","Mujer","UC3M","Otros intercambios",3,NA,19,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","2024_4","No binario","UC3M","Amigos",5,3,17,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","2024_4","Mujer","UC3M","Comunicación UC3M",5,2,21,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","2024_4","Mujer","UPM","Amigo organizador",16,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","2024_4","Mujer","No soy de la universidad...","Comunicación UC3M",2,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","2024_4","Mujer","UC3M","Comunicación UC3M",NA,1,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","2024_4","Mujer","UC3M","Amigos",NA,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","2024_4","Mujer","UC3M","Amigos",5,7,22,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","2024_4","Mujer","UC3M","Comunicación UC3M",4,3,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","2024_4","Mujer","UC3M","Amigo organizador",1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","2024_4","Mujer","UC3M","Amigos",5,4,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","2024_4","Mujer","UC3M","Otros intercambios",NA,1,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","2024_4","Hombre","UC3M","Amigos",NA,NA,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","2024_4","Hombre","No soy de la universidad...","Amigos",5,6,15,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","2024_4","Mujer","UC3M","Amigos",2,1,7,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","2024_4","Mujer","UC3M","Amigos",NA,NA,4,NA,2024-04-17 12:39:24.985,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,4,NA,2024-04-17 12:39:30.514,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","2024_4","Mujer","UC3M","Amigos",4,4,10,2,2024-04-17 12:40:21.237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,2024-04-17 12:40:53.682,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","2024_4","Mujer","UC3M","Amigos",4,3,12,2,2024-04-17 12:46:20.855,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","2024_4","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2024-04-17 12:48:41.846,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","2024_4","Mujer","UC3M","Comunicación UC3M",2,1,5,2,2024-04-17 12:49:08.921,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","2024_4","Mujer","UC3M","Amigos",4,5,14,0,2024-04-17 12:52:49.659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","2024_4","Hombre","UC3M","Amigos",2,1,4,2,2024-04-17 12:55:33.136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","2024_4","Hombre","UC3M","Amigos",5,NA,13,NA,2024-04-17 12:55:42.906,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-04-17 12:58:17.224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","2024_4","Mujer","UC3M","Otros intercambios",5,2,13,7,2024-04-17 13:00:41.907,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","2024_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-04-17 13:08:46.136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","2024_4","Hombre","UC3M","Amigos",1,1,4,0,2024-04-17 13:09:21.444,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","2024_4","Mujer","URJC","Amigo organizador",NA,NA,15,NA,2024-04-17 13:28:57.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","2024_4","Hombre","UC3M","Amigo organizador",11,3,30,16,2024-04-17 13:29:00.612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","2024_4","Hombre","UC3M","Amigo organizador",2,NA,8,NA,2024-04-17 13:32:12.019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","2024_4","Hombre","UC3M","Comunicación UC3M",NA,1,25,23,2024-04-17 13:37:41.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","2024_4","Hombre","UC3M","Comunicación UC3M",5,2,14,7,2024-04-17 13:39:13.417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","2024_4","Mujer","UC3M","Amigos",3,3,11,8,2024-04-17 13:45:55.565,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","2024_4","Mujer","UC3M","Amigos",NA,1,3,2,2024-04-17 13:52:21.627,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","2024_4","No binario","UC3M","Amigos",5,NA,15,NA,2024-04-17 14:04:46.629,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","2024_4","Mujer","UC3M","Comunicación UC3M",3,1,9,5,2024-04-17 14:06:25.032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","2024_4","Mujer","UC3M","Redes MUCAM",NA,NA,2,NA,2024-04-17 14:07:36.221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","2024_4","No binario","UC3M","Amigos",5,2,10,6,2024-04-17 14:07:59.608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","2024_4","Mujer","No soy de la universidad...","Amigos",2,2,7,1,2024-04-17 14:16:43.875,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","2024_4","No binario","UC3M","Otros intercambios",1,1,4,NA,2024-04-17 14:16:59.815,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","2024_4","Mujer","UC3M","Amigos",3,2,5,0,2024-04-17 14:37:54.366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","2024_4","Mujer","UC3M","Amigos",4,NA,8,NA,2024-04-17 14:38:17.407,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","2024_4","Mujer","UC3M","Amigos",NA,4,10,3,2024-04-17 14:38:50.787,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","2024_4","Hombre","UC3M","Amigos",NA,NA,4,NA,2024-04-17 14:44:54.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","2024_4","Mujer","UC3M","Amigos",2,1,6,0,2024-04-17 14:45:29.838,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","2024_4","Mujer","UC3M","Comunicación UC3M",3,2,8,0,2024-04-17 14:45:57.342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","2024_4","Mujer","UC3M","Comunicación UC3M",5,5,16,0,2024-04-17 15:29:57.792,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","2024_4","Mujer","UC3M","Otros intercambios",5,2,14,10,2024-04-17 15:42:40.049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","2024_4","Hombre","UC3M","Amigo organizador",5,6,19,0,2024-04-17 15:59:14.911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","2024_4","Mujer","UC3M","Amigo organizador",2,NA,8,NA,2024-04-17 16:00:35.751,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","2024_4","Mujer","No soy de la universidad...","Otros intercambios",0,NA,2,NA,2024-04-17 16:00:36.516,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","2024_4","Mujer","No soy de la universidad...","Amigo organizador",5,7,17,0,2024-04-17 16:01:57.038,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","2024_4","Hombre","UC3M","Amigos",2,NA,6,NA,2024-04-17 16:04:45.986,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","2024_4","Hombre","UC3M","Amigo organizador",3,1,5,3,2024-04-17 16:10:10.721,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","2024_4","Mujer","UC3M","Comunicación UC3M",5,1,18,15,2024-04-17 16:10:34.937,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","2024_4","Hombre","UC3M","Amigo organizador",NA,NA,NA,NA,2024-04-17 16:13:12.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","2024_4","Mujer","UC3M","Otros intercambios",3,2,9,3,2024-04-17 16:34:04.798,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","2024_4","Mujer","UC3M","Amigo organizador",3,2,12,5,2024-04-17 16:34:29.235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","2024_4","Mujer","UC3M","Amigo organizador",NA,1,22,19,2024-04-17 16:38:06.486,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","2024_4","Mujer","No soy de la universidad...","Amigo organizador",6,6,30,16,2024-04-17 16:51:58.548,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","2024_4","Hombre","No soy de la universidad...","Amigo organizador",NA,NA,NA,NA,2024-04-17 16:53:44.244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","2024_4","Mujer","UC3M","Amigos",2,NA,7,NA,2024-04-17 17:45:35.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","2024_4","Mujer","UC3M","Comunicación UC3M",2,1,6,3,2024-04-17 17:45:37.477,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","2024_4","Hombre","UC3M","Amigos",1,1,3,1,2024-04-17 17:45:44.429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","2024_4","Mujer","UC3M","Comunicación UC3M",NA,2,6,0,2024-04-17 17:47:01.876,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","2024_4","Hombre","UC3M","Amigos",NA,1,5,3,2024-04-17 17:47:06.213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","2024_4","No binario","UC3M","Amigos",2,NA,4,NA,2024-04-17 17:47:14.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,NA,NA,2024-04-17 17:47:33.547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","2024_4","Mujer","UC3M","Comunicación UC3M",NA,2,6,0,2024-04-17 17:47:51.207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","2024_4","Hombre","UC3M","Amigos",NA,NA,2,NA,2024-04-17 17:48:44.912,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","2024_4","Mujer","UC3M","Otros intercambios",NA,NA,2,NA,2024-04-17 17:49:20.135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","2024_4","Mujer","UC3M","Comunicación UC3M",NA,1,3,0,2024-04-17 17:54:32.175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","2024_4","Mujer","UC3M","Amigos",NA,1,3,0,2024-04-17 17:55:10.888,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","2024_4","Hombre","UC3M","Comunicación UC3M",NA,1,2,0,2024-04-17 17:56:11.978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","2024_4","Mujer","UC3M","Amigo organizador",NA,NA,10,8,2024-04-17 17:57:12.757,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","2024_4","Mujer","No soy de la universidad...","Amigos",5,3,16,10,2024-04-17 17:58:44.095,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","2024_4","Hombre","UC3M","Otros intercambios",4,NA,22,NA,2024-04-17 18:04:01.894,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","2024_4","Hombre","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-04-17 18:18:16.193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","2024_4","Mujer","UC3M","Comunicación UC3M",5,4,16,5,2024-04-17 18:21:52.344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","2024_4","Mujer","UC3M","Amigos",NA,1,NA,2,2024-04-17 18:24:48.223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","2024_4","Mujer","UC3M","Otros intercambios",NA,1,3,0,2024-04-17 18:28:09.069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","2024_4","Mujer","UC3M","Amigos",NA,1,3,0,2024-04-17 18:28:42.837,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"513","2024_4","Mujer","UC3M","Amigos",NA,1,3,0,2024-04-17 18:29:25.492,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","2024_4","Mujer","UC3M","Amigos",NA,1,3,NA,2024-04-17 18:29:38.745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"515","2024_4","Mujer","UC3M","Amigos",NA,1,3,0,2024-04-17 18:40:21.271,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","2024_4","Hombre","UC3M","Amigos",NA,1,3,0,2024-04-17 18:41:54.777,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","2024_4","Hombre","UC3M","Amigos",3,1,1,0,2024-04-17 18:45:46.576,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","2024_4","Hombre","No soy de la universidad...","Amigo organizador",NA,NA,NA,NA,2024-04-17 18:48:24.734,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","2024_11","Mujer","UC3M",NA,NA,1,NA,NA,2024-11-11 16:03:11.779,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","2024_11","Hombre","UC3M",NA,NA,5,NA,NA,2024-11-11 16:05:49.37,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","2024_11","Mujer","UPM",NA,NA,4,NA,NA,2024-11-11 16:20:03.99,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","2024_11","Mujer","UC3M",NA,4,NA,23,3,2024-11-11 18:34:31.425,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","2024_11","No binario","UC3M",NA,5,5,25,6,2024-11-11 18:36:46.216,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","2024_11","Mujer","UPM",NA,NA,NA,NA,NA,2024-11-11 18:45:55.57,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","2024_11","Mujer","UPM","Amigo organizador",NA,NA,NA,NA,2024-11-11 18:46:03.717,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","2024_11","Mujer","UC3M",NA,NA,4,NA,NA,2024-11-11 18:50:10.815,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","2024_11","Mujer","URJC",NA,NA,NA,NA,NA,2024-11-11 19:13:39.076,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","2024_11","Mujer","No soy de la universidad...",NA,5,2,22,18,2024-11-11 19:45:35.278,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","2024_11","Mujer","No soy de la universidad...",NA,NA,NA,NA,NA,2024-11-11 19:48:22.344,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","2024_11","Mujer","No soy de la universidad...","Amigo organizador",NA,NA,NA,NA,2024-11-11 20:29:41.068,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","2024_11","Mujer","UC3M",NA,5,NA,12,NA,2024-11-11 21:22:34.255,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","2024_11","Hombre","UC3M","Amigo organizador",NA,NA,NA,NA,2024-11-11 22:16:50.786,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","2024_11","Mujer","UC3M",NA,5,4,28,11,2024-11-11 22:22:37.794,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","2024_11","Mujer","UC3M",NA,5,4,13,13,2024-11-11 22:26:29.134,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","2024_11","Hombre","No soy de la universidad...",NA,5,NA,18,0,2024-11-11 22:27:43.158,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","2024_11","Mujer","UC3M",NA,1,1,16,2,2024-11-12 08:44:45.387,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","2024_11","Mujer","UC3M","Comunicación UC3M",5,4,12,1,2024-11-12 10:12:46.532,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-12 11:08:53.715,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","2024_11","Mujer","UC3M",NA,4,1,9,7,2024-11-12 11:52:46.401,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","2024_11","Mujer","UC3M",NA,4,1,10,2,2024-11-12 15:21:19.669,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","2024_11","Mujer","UC3M","Amigos",3,NA,18,8,2024-11-12 15:21:56.722,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","2024_11","No binario","UC3M",NA,2,1,5,1,2024-11-12 15:45:01.888,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","2024_11","Mujer","UC3M",NA,NA,5,25,22,2024-11-12 15:51:44.086,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","2024_11","Hombre","UCM","Amigo organizador",4,NA,19,17,2024-11-12 15:54:29.817,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","2024_11","Mujer","UC3M",NA,3,NA,10,6,2024-11-12 17:26:44.121,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-12 17:29:49.784,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","2024_11","Mujer","UC3M",NA,4,2,12,6,2024-11-12 18:15:09.795,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","2024_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-11-12 18:32:59.41,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","2024_11","Mujer","UC3M",NA,5,NA,23,14,2024-11-12 18:40:55.167,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","2024_11","Mujer","UCM","Amigo organizador",4,3,18,6,2024-11-12 18:43:21.725,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","2024_11","Mujer","No soy de la universidad...",NA,5,7,23,23,2024-11-12 19:01:56.67,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","2024_11","Hombre","UC3M",NA,6,3,27,15,2024-11-12 19:04:21.975,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","2024_11","Mujer","UC3M",NA,5,7,30,10,2024-11-12 19:52:31.434,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","2024_11","Mujer","Universidad Villanueva",NA,NA,NA,NA,NA,2024-11-12 20:23:57.761,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","2024_11","Mujer","antes uc3m ahora ucm","Amigo organizador",NA,NA,NA,NA,2024-11-12 21:08:47.533,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","2024_11","Mujer","UC3M",NA,5,7,23,4,2024-11-12 21:09:40.184,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","2024_11","Hombre","UCM","Amigo organizador",4,1,17,14,2024-11-12 22:09:44.914,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","2024_11","Mujer","UC3M",NA,1,2,14,8,2024-11-12 23:16:35.64,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"559","2024_11","Mujer","UC3M",NA,5,2,25,17,2024-11-13 00:39:32.973,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","2024_11","Hombre","UEM","Amigo organizador",NA,NA,NA,NA,2024-11-13 01:11:34.462,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","2024_11","Mujer","UC3M",NA,5,4,16,2,2024-11-13 03:09:21.504,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","2024_11","Mujer","UC3M",NA,5,5,19,2,2024-11-13 06:08:06.863,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","2024_11","Mujer","UC3M",NA,5,8,25,6,2024-11-13 08:38:07.82,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","2024_11","Mujer","UC3M",NA,1,2,8,2,2024-11-13 09:07:09.714,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","2024_11","Mujer","UC3M","Comunicación UC3M",5,5,17,4,2024-11-13 09:35:40.355,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2024-11-13 11:07:19.437,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-13 11:40:07.749,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-13 11:40:25.341,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","2024_11","Mujer","UC3M",NA,5,3,16,7,2024-11-13 12:06:56.351,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-13 12:09:40.42,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","2024_11","Hombre","UC3M",NA,18,3,25,19,2024-11-13 14:59:38.671,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","2024_11","Hombre","UC3M",NA,1,NA,6,0,2024-11-13 14:59:42.966,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","2024_11","Hombre","UC3M",NA,4,2,13,9,2024-11-13 15:28:33.464,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","2024_11","Mujer","UC3M",NA,3,2,9,4,2024-11-13 16:12:18.984,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","2024_11","Mujer","UC3M","Comunicación UC3M",5,NA,24,NA,2024-11-13 17:09:12.066,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","2024_11","Hombre","UC3M",NA,4,NA,15,NA,2024-11-13 18:11:23.006,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-13 18:23:05.894,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-13 19:47:53.035,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","2024_11","Mujer","UC3M","Amigo organizador",3,NA,9,7,2024-11-13 21:14:25.692,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","2024_11","Mujer","UDIT","Amigos",NA,NA,NA,NA,2024-11-13 21:18:11.998,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","2024_11","Hombre","UC3M",NA,NA,NA,NA,NA,2024-11-13 21:36:35.807,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","2024_11","No binario","UC3M",NA,NA,NA,NA,NA,2024-11-13 21:39:15.662,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","2024_11","Mujer","UC3M",NA,5,7,25,3,2024-11-13 22:35:19.506,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","2024_11","No binario","UC3M",NA,NA,NA,NA,NA,2024-11-13 23:12:15.442,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","2024_11","No binario","UC3M","Amigos",NA,NA,NA,NA,2024-11-14 06:59:01.122,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","2024_11","Mujer","UC3M",NA,NA,4,NA,NA,2024-11-14 11:29:16.308,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","2024_11","Mujer","URJC",NA,NA,NA,12,3,2024-11-14 11:42:13.562,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","2024_11","Hombre","UC3M","Amigo organizador",3,4,15,1,2024-11-14 12:28:38.249,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","2024_11","Mujer","UC3M",NA,2,1,6,3,2024-11-14 13:32:35.002,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","2024_11","Mujer","UC3M",NA,4,5,16,1,2024-11-14 13:46:04.953,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","2024_11","Mujer","UC3M",NA,4,NA,25,19,2024-11-14 14:43:56.86,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","2024_11","Mujer","UC3M","Amigos",5,5,20,6,2024-11-14 15:29:34.533,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-14 15:30:16.129,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-14 15:30:35.598,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","2024_11","Mujer","UC3M","Comunicación UC3M",5,3,21,7,2024-11-14 15:39:35.66,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","2024_11","Mujer","UC3M","Amigo organizador",7,7,19,-1,2024-11-14 15:52:31.697,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","2024_11","Mujer","URJC",NA,NA,NA,NA,NA,2024-11-14 16:02:11.646,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","2024_11","Mujer","UC3M",NA,NA,1,4,1,2024-11-14 16:59:24.29,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","2024_11","Mujer","UC3M",NA,3,2,16,NA,2024-11-14 17:03:08.91,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","2024_11","Mujer","UCM","Amigo organizador",5,NA,23,NA,2024-11-14 17:16:32.959,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","2024_11","Mujer","UC3M",NA,5,5,14,1,2024-11-14 22:07:21.599,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","2024_11","Mujer","UC3M",NA,NA,NA,NA,NA,2024-11-15 00:11:36.589,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","2024_11","Mujer","UC3M","Amigo organizador",2,2,9,3,2024-11-15 09:33:09.5,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","2024_11","Mujer","UC3M",NA,1,NA,25,1,2024-11-15 09:41:29.8,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","2024_11","Mujer","UC3M","Amigos",4,3,13,2,2024-11-15 11:09:29.224,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","2024_11","Mujer","UC3M","Comunicación UC3M",5,5,16,0,2024-11-15 12:52:40.647,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","2024_11","Mujer","UC3M","Comunicación UC3M",5,4,24,9,2024-11-15 12:53:16.062,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","2024_11","Mujer","UC3M",NA,4,2,10,5,2024-11-15 14:52:33.93,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","2024_11","Hombre","UC3M",NA,NA,NA,NA,NA,2024-11-15 18:18:40.083,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","2024_11","Mujer","UC3M","Comunicación UC3M",5,4,16,7,2024-11-16 01:05:26.417,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","2024_11","Mujer","UC3M",NA,NA,8,22,1,2024-11-16 10:31:45.446,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","2024_11","Mujer","No soy de la universidad...",NA,4,3,16,6,2024-11-17 00:44:51.436,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","2024_11","Mujer","UCM","Amigo organizador",2,2,6,0,2024-11-18 00:54:33.629,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","2024_11","Mujer","UC3M",NA,3,NA,12,NA,2024-11-18 10:44:12.244,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","2024_11","Mujer","UC3M","Amigo organizador",5,4,33,15,2024-11-18 10:52:19.584,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","2024_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-11-18 11:55:46.71,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","2024_11","Mujer","UC3M",NA,5,NA,13,1,2024-11-18 12:03:07.474,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2024-11-18 15:07:37.515,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","2024_11","Mujer","UCM",NA,4,NA,13,5,2024-11-18 23:09:44.367,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","2024_11","Mujer","UC3M",NA,5,NA,15,1,2024-11-18 23:52:04.25,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","2024_11","Mujer","UC3M",NA,3,2,17,12,2024-11-19 00:14:03.968,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","2024_11","Hombre","URJC",NA,2,2,8,3,2024-11-19 09:32:43.44,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","2024_11","Mujer","UC3M","Comunicación UC3M",4,5,14,0,2024-11-19 11:44:19.607,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","2024_11","Mujer","UC3M","Amigos",5,4,23,3,2024-11-19 11:45:07.012,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","2024_11","Hombre","UC3M","Amigos",4,4,15,4,2024-11-19 11:45:35.708,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"626","2024_11","No binario","UC3M",NA,3,NA,7,5,2024-11-19 11:53:22.171,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","2024_11","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2024-11-19 12:22:12.076,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-19 15:39:22.005,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-19 16:30:44.52,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","2024_11","Mujer","UC3M","Amigos",5,4,15,4,2024-11-19 16:56:35.217,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","2024_11","Hombre","UC3M",NA,5,NA,18,1,2024-11-19 17:17:56.58,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","2024_11","Mujer","Voy a un grado","Comunicación UC3M",5,NA,33,11,2024-11-19 18:32:24.075,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"633","2024_11","Mujer","UC3M","Comunicación UC3M",5,NA,25,19,2024-11-19 18:56:50.142,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"634","2024_11","Mujer","UC3M","Comunicación UC3M",NA,NA,6,0,2024-11-19 20:50:34.977,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","2024_11","Mujer","UC3M",NA,3,NA,8,2,2024-11-19 20:48:54.725,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"636","2024_11","Mujer","No soy de la universidad...","Amigos",5,NA,19,NA,2024-11-19 21:24:04.942,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","2024_11","Hombre","UC3M",NA,4,4,19,4,2024-11-19 21:55:16.387,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","2024_11","Hombre","UC3M",NA,NA,NA,NA,NA,2024-11-19 22:07:23.815,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","2024_11","Mujer","UC3M","Amigo organizador",3,2,14,9,2024-11-19 22:23:30.107,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","2024_11","Mujer","UC3M",NA,5,1,17,11,2024-11-19 22:30:00.155,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"641","2024_11","Mujer","No soy de la universidad...","Amigo organizador",5,6,18,0,2024-11-19 22:40:12.053,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"642","2024_11","Hombre","UC3M","Amigos",3,NA,12,NA,2024-11-19 22:58:07.974,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","2024_11","Hombre","UC3M",NA,5,NA,20,NA,2024-11-19 23:05:48.892,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","2024_11","Mujer","UC3M",NA,NA,5,28,11,2024-11-20 00:04:03.316,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","2024_11","Mujer","UC3M",NA,5,NA,15,NA,2024-11-20 01:44:45.108,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","2024_11","Mujer","UC3M","Comunicación UC3M",1,2,6,1,2024-11-20 08:37:34.391,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","2024_11","Mujer","UC3M",NA,NA,2,25,NA,2024-11-20 10:01:42.404,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","2024_11","Mujer","UC3M",NA,NA,2,25,NA,2024-11-20 10:16:52.425,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","2024_11","Mujer","No soy de la universidad...","Amigo organizador",4,3,16,6,2024-11-20 10:18:46.35,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","2024_11","Mujer","UC3M","Amigos",5,3,25,8,2024-11-20 11:11:34.192,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","2024_11","Mujer","UC3M","Amigo organizador",5,1,19,13,2024-11-20 11:15:32.586,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","2024_11","Mujer","UC3M","Amigos",5,1,20,5,2024-11-20 11:18:32.385,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","2024_11","Mujer","UC3M","Amigos",NA,1,5,1,2024-11-20 11:23:04.371,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","2024_11","No binario","No soy de la universidad...","Amigos",5,NA,13,8,2024-11-20 11:44:04.34,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","2024_11","Hombre","UC3M","Amigos",NA,1,5,4,2024-11-20 11:47:55.799,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","2024_11","Hombre","UC3M","Amigo organizador",NA,2,12,9,2024-11-20 11:48:24.879,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","2024_11","Mujer","UC3M","Amigos",2,1,6,2,2024-11-20 11:50:44.451,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","2024_11","Hombre","UC3M","Amigos",NA,2,4,NA,2024-11-20 11:51:39.647,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","2024_11","Mujer","UC3M","Amigo organizador",4,NA,9,3,2024-11-20 11:51:49.392,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","2024_11","Mujer","UC3M","Amigos",NA,NA,NA,NA,2024-11-20 11:59:34.576,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","2024_11","Mujer","UCM","Amigo organizador",2,2,11,1,2024-11-20 12:14:46.759,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","2024_11","Hombre","UC3M","Amigos",NA,NA,4,NA,2024-11-20 12:25:35.572,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","2024_11","Hombre","UC3M","Amigo organizador",3,NA,17,NA,2024-11-20 12:27:05.851,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","2024_11","No binario","No soy de la universidad...",NA,NA,4,6,-11,2024-11-20 12:28:19.72,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","2024_11","Mujer","UC3M",NA,4,4,11,2,2024-11-20 12:29:24.797,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","2024_11","Mujer","UC3M","Amigos",3,1,9,7,2024-11-20 12:30:38.534,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","2024_11","Hombre","UC3M","Amigos",5,4,13,4,2024-11-20 12:36:11.809,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","2024_11","Hombre","UC3M","Amigos",NA,NA,5,NA,2024-11-20 12:39:38.327,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","2024_11","Mujer","UC3M","Amigos",NA,NA,5,NA,2024-11-20 12:40:14.124,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","2024_11","Mujer","UC3M","Amigos",NA,NA,5,NA,2024-11-20 12:41:32.62,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","2024_11","Mujer","UC3M",NA,2,3,12,2,2024-11-20 12:45:15.362,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","2024_11","Mujer","UC3M",NA,NA,NA,3,NA,2024-11-20 12:48:12.654,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","2024_11","Mujer","UC3M","Amigo organizador",3,NA,9,NA,2024-11-20 13:01:09.337,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","2024_11","Mujer","UC3M","Amigos",3,3,16,4,2024-11-20 13:09:19.287,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"675","2024_11","Mujer","UC3M","Amigos",5,NA,12,0,2024-11-20 13:23:43.221,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","2024_11","Mujer","UC3M","Amigos",5,3,15,1,2024-11-20 13:26:07.84,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","2024_11","Mujer","UC3M","Amigo organizador",3,NA,14,5,2024-11-20 13:29:38.621,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","2024_11","Hombre","UCM","Amigos",4,3,16,11,2024-11-20 13:36:27.462,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","2024_11","Mujer","UC3M",NA,5,6,22,8,2024-11-20 13:43:48.536,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,3,NA,2024-11-20 13:47:48.301,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","2024_11",NA,NA,NA,2,NA,9,1,2024-11-20 13:55:50.449,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","2024_11","Mujer","UC3M","Amigo organizador",1,NA,8,0,2024-11-20 13:57:23.939,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","2024_11","Hombre","UC3M",NA,1,NA,11,0,2024-11-20 14:11:53.018,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","2024_11","Mujer","UC3M",NA,5,3,14,3,2024-11-20 14:16:46.904,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","2024_11","Mujer","UC3M","Amigo organizador",5,NA,11,NA,2024-11-20 14:21:39.147,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","2024_11","Mujer","UC3M","Amigos",NA,1,2,0,2024-11-20 14:24:23.76,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","2024_11","Mujer","UC3M","Amigo organizador",8,NA,24,NA,2024-11-20 14:27:44.714,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","2024_11","Mujer","UC3M",NA,2,1,7,4,2024-11-20 14:41:58.397,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","2024_11","Mujer","UC3M",NA,5,2,14,10,2024-11-20 14:57:12.489,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","2024_11","Mujer","UC3M","Amigo organizador",3,2,9,1,2024-11-20 15:04:50.218,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","2024_11","Mujer","UC3M",NA,3,2,13,7,2024-11-20 15:17:19.016,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","2024_11","Mujer","UC3M","Amigos",4,2,14,8,2024-11-20 15:31:54.464,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","2024_11","Mujer","No soy de la universidad...",NA,5,4,16,0,2024-11-20 15:32:10.127,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","2024_11","Hombre","UC3M","Amigos",5,3,17,12,2024-11-20 15:37:30.465,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"695","2024_11","No binario","UC3M","Amigo organizador",NA,NA,3,NA,2024-11-20 15:38:45.317,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","2024_11","Mujer","UC3M",NA,2,1,6,0,2024-11-20 15:38:59.511,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,NA,NA,2024-11-20 15:47:44.836,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,10,4,2024-11-20 15:54:49.726,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","2024_11","Mujer","UC3M","Amigos",NA,3,10,0,2024-11-20 15:54:59.907,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","2024_11","Mujer","UC3M","Amigo organizador",NA,NA,10,NA,2024-11-20 15:55:57.466,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","2024_11","Mujer","UC3M","Amigo organizador",2,1,12,10,2024-11-20 16:01:31.66,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","2024_11","Hombre","UC3M","Amigo organizador",2,2,12,0,2024-11-20 16:02:25.027,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"703","2024_11","Mujer","UC3M",NA,0,2,9,3,2024-11-20 16:10:35.115,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","2024_11","Mujer","UC3M","Amigos",3,3,10,5,2024-11-20 16:10:51.523,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","2024_11","Mujer","UC3M","Comunicación UC3M",NA,NA,4,NA,2024-11-20 16:10:52.992,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"706","2024_11","Hombre","UC3M",NA,10,1,25,23,2024-11-20 16:44:51.097,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","2024_11","Hombre","UC3M","Amigo organizador",9,1,25,23,2024-11-20 16:45:13.637,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","2024_11","Hombre","UC3M",NA,5,3,23,19,2024-11-20 16:51:17.846,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","2024_11","Mujer","UC3M",NA,1,1,8,2,2024-11-20 17:23:56.257,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"710","2024_11","Mujer","UC3M","Amigos",3,3,15,1,2024-11-20 17:42:13.057,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"711","2024_11","Mujer","UC3M","Amigos",5,1,18,15,2024-11-20 17:50:21.162,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"712","2024_11","Mujer","UC3M",NA,5,6,19,-1,2024-11-20 17:51:27.834,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"713","2024_11","Mujer","UC3M",NA,NA,1,4,1,2024-11-20 18:01:07.627,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"714","2024_11","Mujer","UC3M",NA,NA,1,4,2,2024-11-20 18:01:59.133,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"715","2024_11",NA,NA,NA,4,4,14,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","2025_4","Mujer","UC3M",NA,2,0,6,6,2025-03-13 18:22:41,NA,"Varias veces",NA,0,"11:48:24","MUCAM","Camiseta/Polo/Top","Vestido","","","","","","","","","","","","",""
+"717","2025_4","Mujer","UC3M",NA,5,5,20,9,2025-03-13 18:23:29,NA,"Varias veces",NA,3,"12:57:01","Primer intercambio","Pantalón","Pantalón","Jersey","Jersey","Pantalón","2/04/2025 14:48:42","Camiseta/Polo/Top","Falda","Falda","Pantalón","","","","",""
+"718","2025_4","Mujer","UCM",NA,0,7,0,-13,2025-03-13 18:40:38,NA,"Varias veces",NA,0,"","MUCAM","","","","","","2/04/2025 14:37:15","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","","",""
+"719","2025_4","Mujer","UC3M",NA,5,7,25,4,2025-03-13 18:44:02,NA,"Varias veces",NA,10,"15:44:38","Primer intercambio","Abrigo","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 16:58:51","Vestido","Vestido","Jersey","Jersey","Pantalón","Camiseta/Polo/Top","","",""
+"720","2025_4","Mujer","UEM",NA,0,0,0,0,2025-03-13 18:51:48,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"721","2025_4","No binarie","UC3M",NA,5,0,17,17,2025-03-13 19:16:22,NA,"Segunda vez",2,0,"13:39:20","Primer intercambio","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Falda","","","","","","","","","",""
+"722","2025_4","Hombre","UC3M",NA,1,0,2,2,2025-03-13 20:28:29,NA,"Varias veces",NA,0,"12:54:13","MUCAM","Camiseta/Polo/Top","","","","","","","","","","","","","",""
+"723","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-03-14 00:17:00,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"724","2025_4","Hombre","UC3M",NA,5,8,20,6,2025-03-14 14:56:54,NA,"Segunda vez",NA,0,"11:24:36","Primer intercambio","Pantalón","Chaqueta","Vestido","Vestido","Falda","2/04/2025 12:04:02","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Falda","Complementos","Bolso","",""
+"725","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-14 16:11:31,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"726","2025_4","Mujer","No soy de la universidad...",NA,4,6,13,0,2025-03-15 12:52:45,NA,"Varias veces",NA,0,"16:27:57","Primer intercambio","Sudadera","Sudadera","Pantalón","Camiseta/Polo/Top","","2/04/2025 16:57:54","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","","","",""
+"727","2025_4","Mujer","UC3M",NA,5,0,19,19,2025-03-17 12:45:00,NA,"Varias veces",NA,4,"12:08:12","Tercer intercambio","Jersey","Camiseta/Polo/Top","Pantalón","Pantalón","Pantalón","","","","","","","","","",""
+"728","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-03-18 02:01:45,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"729","2025_4","Mujer","UC3M","Comunicación UC3M",2,4,6,0,2025-03-18 13:07:10,NA,"Primera vez",NA,0,"15:09:13","Primer intercambio","Pantalón","Pantalón","","","","2/04/2025 16:01:21","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","",""
+"730","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-18 16:26:08,NA,"Varias veces",NA,0,"","MUCAM","","","","","","","","","","","","","","",""
+"731","2025_4","Hombre","UC3M","Comunicación UC3M",0,0,0,0,2025-03-18 16:59:55,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"732","2025_4","Mujer","UC3M",NA,5,2,31,27,2025-03-18 19:54:12,NA,"Varias veces",2,14,"15:58:26","Tercer intercambio","Pantalón","Pantalón","Pantalón","Pantalón","Pantalón","2/04/2025 16:25:47","Vestido","","","","","","","",""
+"733","2025_4","Hombre","UC3M",NA,0,0,7,7,2025-03-19 10:50:46,NA,"Segunda vez",NA,7,"","Segundo intercambio","","","","","","","","","","","","","","",""
+"734","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-19 15:11:27,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"735","2025_4","Mujer","UC3M",NA,5,7,11,-4,2025-03-20 13:59:22,NA,"Segunda vez",2,0,"11:37:29","Primer intercambio","Pantalón","Complementos","Complementos","Complementos","Pantalón","2/04/2025 11:54:57","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","Falda"
+"736","2025_4","Mujer","UC3M",NA,3,5,18,5,2025-03-20 22:42:42,NA,"Varias veces",NA,9,"13:00:46","Primer intercambio","Pantalón","Jersey","Camiseta/Polo/Top","","","2/04/2025 13:32:54","Pantalón","Pantalón","Vestido","Falda","","","","",""
+"737","2025_4","No binarie","UC3M",NA,5,7,15,0,2025-03-21 11:29:13,NA,"Segunda vez",NA,0,"12:53:34","Primer intercambio","Falda","Vestido","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 14:15:12","Pantalón","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","",""
+"738","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-21 14:15:38,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"739","2025_4","No binarie","UC3M",NA,5,6,17,2,2025-03-21 14:17:25,NA,"Segunda vez",NA,1,"12:38:25","Segundo intercambio","Sudadera","Sudadera","Pantalón","Camiseta/Polo/Top","Pantalón","2/04/2025 13:10:15","Camiseta/Polo/Top","Falda","Camiseta/Polo/Top","Chaqueta","Camiseta/Polo/Top","","","",""
+"740","2025_4","Hombre","UC3M",NA,5,6,33,21,2025-03-21 14:17:45,NA,"Varias veces",NA,14,"13:45:57","MUCAM","Chaqueta","Jersey","Camiseta/Polo/Top","Chaqueta","Complementos","2/04/2025 14:44:40","Camiseta/Polo/Top","Pantalón","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"741","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-21 14:24:04,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"742","2025_4","Mujer","UCM",NA,5,0,29,29,2025-03-21 14:29:29,NA,"Segunda vez",2,6,"12:01:34","Segundo intercambio","Vestido","Falda","Vestido","Abrigo","Vestido","","","","","","","","","",""
+"743","2025_4","Mujer","UCM","Amigos",4,5,10,-3,2025-03-21 14:32:08,NA,"Primera vez",NA,0,"16:38:00","Primer intercambio","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","2/04/2025 17:49:31","Sudadera","Falda","Falda","Pantalón","","","","",""
+"744","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-03-21 14:37:24,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"745","2025_4","Hombre","UC3M",NA,4,3,26,17,2025-03-21 14:39:27,NA,"Varias veces",2,9,"11:56:01","Tercer intercambio","Chaqueta","Pantalón","Jersey","Camiseta/Polo/Top","","2/04/2025 12:40:36","Chaqueta","Pantalón","","","","","","",""
+"746","2025_4","Mujer","UCM",NA,0,0,0,0,2025-03-21 14:40:10,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"747","2025_4","Mujer","UC3M",NA,5,5,20,4,2025-03-21 14:56:52,NA,"Segunda vez",2,6,"15:07:46","Primer intercambio","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","2/04/2025 15:45:39","Jersey","Vestido","Vestido","Jersey","","","","",""
+"748","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-03-21 15:48:08,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"749","2025_4","Mujer","UC3M",NA,0,0,7,7,2025-03-21 18:25:11,NA,"Varias veces",NA,7,"","Tercer intercambio","","","","","","","","","","","","","","",""
+"750","2025_4","Mujer","UC3M",NA,2,3,6,1,2025-03-21 19:31:15,NA,"Primera vez",NA,0,"14:40:46","MUCAM","Pantalón","Pantalón","","","","2/04/2025 15:49:42","Pantalón","Camiseta/Polo/Top","","","","","","",""
+"751","2025_4","Mujer","UC3M",NA,5,9,27,4,2025-03-21 20:58:29,NA,"Segunda vez",1,8,"12:32:54","Segundo intercambio","Vestido","Falda","Jersey","Jersey","Falda","2/04/2025 14:18:42","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Chaqueta","Camiseta/Polo/Top","Falda","Pantalón",""
+"752","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-03-21 22:56:15,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"753","2025_4","Mujer","UC3M","Material impreso",5,2,12,8,2025-03-22 15:34:16,NA,"Primera vez",NA,0,"11:41:05","Primer intercambio","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 16:26:35","Vestido","","","","","","","",""
+"754","2025_4","Mujer","UC3M",NA,3,5,14,4,2025-03-22 16:50:27,NA,"Segunda vez",NA,5,"11:21:59","Segundo intercambio","Jersey","Camiseta/Polo/Top","Falda","","","2/04/2025 11:58:41","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","",""
+"755","2025_4","Mujer","UC3M","Redes MUCAM",0,0,0,0,2025-03-22 17:49:40,NA,"Primera vez",NA,0,"","MUCAM","","","","","","","","","","","","","","",""
+"756","2025_4","Mujer","UC3M","Amigo organizador",0,0,0,0,2025-03-23 09:46:21,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"757","2025_4","Mujer","UC3M",NA,4,4,16,7,2025-03-24 09:34:04,NA,"Segunda vez",NA,0,"17:15:45","Primer intercambio","Vestido","Jersey","Jersey","Jersey","","2/04/2025 17:36:25","Camiseta/Polo/Top","Pantalón","Jersey","","","","","",""
+"758","2025_4","Mujer","UC3M",NA,0,3,7,-1,2025-03-24 15:17:04,NA,"Varias veces",NA,7,"","Tercer intercambio","","","","","","2/04/2025 13:06:20","Chaqueta","Camiseta/Polo/Top","","","","","","",""
+"759","2025_4","Mujer","UC3M",NA,3,3,8,0,2025-03-24 15:27:00,NA,"Varias veces",NA,0,"12:19:53","Segundo intercambio","Camiseta/Polo/Top","Pantalón","Pantalón","","","2/04/2025 12:31:30","Jersey","Jersey","","","","","","",""
+"760","2025_4","Mujer","Fuera",NA,5,6,19,2,2025-03-24 15:28:48,NA,"Varias veces",NA,0,"16:46:02","Primer intercambio","Vestido","Vestido","Vestido","Jersey","Pantalón","2/04/2025 17:08:37","Abrigo","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","","","",""
+"761","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-24 15:29:16,NA,"Varias veces",NA,0,"","Tercer intercambio","","","","","","","","","","","","","","",""
+"762","2025_4","Mujer","UC3M",NA,5,8,28,2,2025-03-24 15:33:17,NA,"Segunda vez",10,0,"14:18:52","Primer intercambio","Vestido","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Abrigo","2/04/2025 14:49:17","Abrigo","Abrigo","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","","Pantalón",""
+"763","2025_4","Hombre","URJC",NA,1,2,7,3,2025-03-24 16:21:05,NA,"Varias veces",NA,3,"12:06:41","Tercer intercambio","Jersey","","","","","2/04/2025 12:46:33","Sudadera","","","","","","","",""
+"764","2025_4","Mujer","UC3M",NA,0,0,13,13,2025-03-24 16:38:22,NA,"Varias veces",NA,13,"","Tercer intercambio","","","","","","","","","","","","","","",""
+"765","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-24 16:51:08,NA,"Varias veces",NA,0,"","Tercer intercambio","","","","","","","","","","","","","","",""
+"766","2025_4","Mujer","UC3M",NA,0,4,6,0,2025-03-24 17:12:44,NA,"Varias veces",2,4,"","Tercer intercambio","","","","","","2/04/2025 12:31:50","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","",""
+"767","2025_4","Mujer","UC3M",NA,4,3,13,6,2025-03-24 17:27:47,NA,"Segunda vez",NA,0,"16:13:10","Segundo intercambio","Sudadera","Sudadera","Falda","Camiseta/Polo/Top","","2/04/2025 16:43:58","Sudadera","Pantalón","","","","","","",""
+"768","2025_4","Mujer","UC3M",NA,0,0,8,8,2025-03-24 18:35:08,NA,"Varias veces",NA,8,"","Segundo intercambio","","","","","","","","","","","","","","",""
+"769","2025_4","Hombre","UC3M",NA,5,2,25,19,2025-03-24 18:42:14,NA,"Varias veces",NA,15,"13:43:29","Tercer intercambio","Complementos","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Complementos","2/04/2025 14:01:23","Chaqueta","","","","","","","",""
+"770","2025_4","Mujer","UC3M",NA,5,7,20,1,2025-03-24 18:43:28,NA,"Varias veces",NA,0,"14:26:22","Segundo intercambio","Abrigo","Jersey","Vestido","Camiseta/Polo/Top","Vestido","2/04/2025 16:28:39","Camiseta/Polo/Top","Vestido","Falda","Pantalón","Vestido","Falda","","",""
+"771","2025_4","Hombre","UC3M","Amigos",5,9,22,0,2025-03-24 21:42:21,NA,"Primera vez",NA,0,"14:28:43","Primer intercambio","Abrigo","Jersey","Jersey","Jersey","Jersey","2/04/2025 16:30:18","Camiseta/Polo/Top","Pantalón","Sudadera","Jersey","Camiseta/Polo/Top","Falda","Camiseta/Polo/Top","Bolso",""
+"772","2025_4","No binarie","UC3M",NA,2,3,8,3,2025-03-24 21:57:04,NA,"Varias veces",NA,1,"16:06:33","Segundo intercambio","Vestido","Pantalón","","","","2/04/2025 16:07:29","Pantalón","Camiseta/Polo/Top","","","","","","",""
+"773","2025_4","Mujer","UC3M",NA,5,5,21,9,2025-03-25 08:26:43,NA,"Varias veces",2,2,"13:57:43","Tercer intercambio","Pantalón","Jersey","Jersey","Pantalón","Pantalón","2/04/2025 14:36:05","Camiseta/Polo/Top","Camiseta/Polo/Top","Sudadera","Sudadera","","","","",""
+"774","2025_4","Mujer","UC3M",NA,5,6,15,3,2025-03-25 08:36:27,NA,"Varias veces",NA,1,"13:00:04","CUARTO INTERCAMBIO","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Jersey","Camiseta/Polo/Top","2/04/2025 13:27:55","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","","","",""
+"775","2025_4","Mujer","No soy de la universidad...","Amigos",4,1,13,7,2025-03-25 10:22:28,NA,"Primera vez",NA,0,"15:42:07","Primer intercambio","Jersey","Pantalón","Pantalón","Pantalón","","","Abrigo","","","","","","","",""
+"776","2025_4",".","URJC","Amigos",5,3,16,10,2025-03-25 10:24:33,NA,"Primera vez",NA,0,"13:46:00","Primer intercambio","Pantalón","Jersey","Camiseta/Polo/Top","Vestido","Pantalón","2/04/2025 14:02:45","Camiseta/Polo/Top","Vestido","","","","","","",""
+"777","2025_4","Mujer","UC3M",NA,5,4,19,9,2025-03-25 11:25:28,NA,"Varias veces",NA,0,"13:30:44","Primer intercambio","Vestido","Pantalón","Jersey","Vestido","Vestido","2/04/2025 13:37:55","Chaqueta","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","",""
+"778","2025_4","Mujer","UC3M",NA,3,3,10,6,2025-03-25 11:25:50,NA,"Varias veces",NA,0,"11:57:44","CUARTO INTERCAMBIO","Chaqueta","Camiseta/Polo/Top","Camiseta/Polo/Top","","","2/04/2025 12:22:17","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
+"779","2025_4","Hombre","UC3M",NA,0,3,19,10,2025-03-25 11:55:53,NA,"Varias veces",NA,19,"","CUARTO INTERCAMBIO","","","","","","2/04/2025 12:54:51","Chaqueta","Pantalón","","","","","","",""
+"780","2025_4","Hombre","UC3M",NA,4,6,18,3,2025-03-25 13:36:38,NA,"Segunda vez",NA,4,"11:21:01","Segundo intercambio","Sudadera","Camiseta/Polo/Top","Sudadera","Sudadera","","2/04/2025 12:36:11","Camiseta/Polo/Top","Jersey","Camiseta/Polo/Top","Jersey","Pantalón","","","",""
+"781","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-03-25 13:46:04,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"782","2025_4","Hombre","UC3M","Comunicación UC3M",3,3,11,2,2025-03-25 14:06:51,NA,"Primera vez",NA,0,"12:56:52","Primer intercambio","Pantalón","Sudadera","Sudadera","","","2/04/2025 13:34:13","Chaqueta","Pantalón","","","","","","",""
+"783","2025_4","Mujer","UC3M","Comunicación UC3M",5,7,16,1,2025-03-25 16:36:03,NA,"Primera vez",NA,0,"16:19:42","Primer intercambio","Jersey","Camiseta/Polo/Top","Jersey","Jersey","Camiseta/Polo/Top","2/04/2025 16:46:19","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","","",""
+"784","2025_4","Mujer","Comillas","Comunicación UC3M",0,0,0,0,2025-03-25 16:37:10,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"785","2025_4","Mujer","UC3M",NA,5,4,16,6,2025-03-25 17:26:28,NA,"Segunda vez",NA,0,"12:09:03","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Chaqueta","Vestido","Camiseta/Polo/Top","2/04/2025 12:17:15","Jersey","Sudadera","Camiseta/Polo/Top","","","","","",""
+"786","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-03-25 23:36:24,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"787","2025_4","Mujer","UC3M","Amigos",5,4,16,7,2025-03-26 08:03:40,NA,"Primera vez",NA,0,"12:28:30","Primer intercambio","Pantalón","Pantalón","Jersey","Jersey","Camiseta/Polo/Top","2/04/2025 12:48:42","Pantalón","Pantalón","Pantalón","","","","","",""
+"788","2025_4","Mujer","UC3M","Comunicación UC3M",1,2,4,3,2025-03-26 10:30:10,NA,"Primera vez",NA,0,"12:11:43","Primer intercambio","Vestido","","","","","2/04/2025 12:11:27","Complementos","","","","","","","",""
+"789","2025_4","Mujer","UCM",NA,3,4,10,0,2025-03-26 10:40:25,NA,"Segunda vez",2,0,"12:04:29","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","","","2/04/2025 12:27:03","Jersey","Camiseta/Polo/Top","Jersey","","","","","",""
+"790","2025_4","Mujer","UC3M","Comunicación UC3M",5,6,17,3,2025-03-26 11:17:45,NA,"Primera vez",NA,0,"12:27:05","Primer intercambio","Camiseta/Polo/Top","Vestido","Jersey","Vestido","Pantalón","2/04/2025 12:47:13","Jersey","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"791","2025_4","Mujer","UPM",NA,0,0,0,0,2025-03-26 13:10:01,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"792","2025_4","Mujer","UC3M",NA,5,6,21,7,2025-03-26 15:13:33,NA,"Varias veces",NA,4,"13:35:22","Tercer intercambio","Jersey","Pantalón","Pantalón","Pantalón","Jersey","2/04/2025 14:40:33","Pantalón","Falda","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"793","2025_4","No binarie","UC3M",NA,0,0,2,2,2025-03-26 15:13:59,NA,"Varias veces",NA,2,"","Tercer intercambio","","","","","","","","","","","","","","",""
+"794","2025_4","Mujer","UC3M",NA,5,2,12,6,2025-03-27 06:49:27,NA,"Varias veces",NA,2,"17:35:34","Tercer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 18:04:42","Chaqueta","","","","","","","",""
+"795","2025_4","Mujer","UC3M","Comunicación UC3M",5,2,24,18,2025-03-27 09:41:37,NA,"Primera vez",NA,0,"12:18:00","Primer intercambio","Jersey","Jersey","Chaqueta","Jersey","Abrigo","2/04/2025 14:21:27","Chaqueta","","","","","","","",""
+"796","2025_4","Mujer","UC3M","Amigo organizador",2,2,4,-2,2025-03-27 11:29:44,NA,"Primera vez",NA,0,"12:31:32","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","2/04/2025 12:40:08","Chaqueta","","","","","","","",""
+"797","2025_4","Mujer","UC3M","Comunicación UC3M",NA,0,NA,0,2025-03-27 11:48:14,NA,"Primera vez",NA,NA,"","Primer intercambio","","","","","","","","","","","","","","",""
+"798","2025_4","Mujer","UCM",NA,NA,4,NA,-7,2025-03-27 23:59:35,NA,"Varias veces",NA,NA,"","Tercer intercambio","","","","","","2/04/2025 12:42:21","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","","","","","",""
+"799","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-03-28 09:24:44,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"800","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-28 10:46:31,NA,"Varias veces",NA,0,"","MUCAM","","","","","","","","","","","","","","",""
+"801","2025_4","Mujer","UCM","Comunicación UC3M",0,0,0,0,2025-03-28 16:44:10,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"802","2025_4","Mujer","UC3M","Amigos",5,2,15,9,2025-03-28 16:56:24,NA,"Primera vez",NA,0,"14:09:05","Primer intercambio","Pantalón","Pantalón","Pantalón","Pantalón","Pantalón","2/04/2025 14:17:25","Chaqueta","","","","","","","",""
+"803","2025_4","Hombre","UC3M",NA,0,2,3,0,2025-03-28 19:28:32,NA,"Segunda vez",NA,3,"","Segundo intercambio","","","","","","2/04/2025 16:41:04","Pantalón","","","","","","","",""
+"804","2025_4","Mujer","UC3M",NA,5,0,10,10,2025-03-29 10:14:00,NA,"Varias veces",NA,0,"16:24:07","Segundo intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","","","","",""
+"805","2025_4","Mujer","UC3M","Comunicación UC3M",4,6,15,3,2025-03-29 11:14:45,NA,"Primera vez",NA,0,"12:41:25","Primer intercambio","Pantalón","Pantalón","Falda","Chaqueta","","2/04/2025 13:35:38","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"806","2025_4","Mujer","UC3M",NA,5,4,21,12,2025-03-29 11:23:02,NA,"Varias veces",NA,1,"14:05:11","Tercer intercambio","Jersey","Jersey","Pantalón","Falda","Abrigo","2/04/2025 18:00:26","Pantalón","Jersey","Camiseta/Polo/Top","","","","","",""
+"807","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-03-30 17:02:22,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"808","2025_4","Mujer","No soy de la universidad...","Amigos",5,5,14,0,2025-03-30 18:36:36,NA,"Primera vez",2,0,"15:59:37","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Camiseta/Polo/Top","2/04/2025 16:24:27","Pantalón","Vestido","Falda","","Sudadera","","","",""
+"809","2025_4","Mujer","UC3M",NA,0,NA,19,NA,2025-03-31 07:49:08,NA,"Varias veces",NA,19,"","CUARTO INTERCAMBIO","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"810","2025_4","Mujer","UC3M",NA,5,7,11,-7,2025-03-31 08:18:21,NA,"Varias veces",NA,-9,"14:12:14","CUARTO INTERCAMBIO","Vestido","Vestido","Vestido","Vestido","Sudadera","2/04/2025 14:57:50","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Vestido","Pantalón","Vestido","","",""
+"811","2025_4","Hombre","No soy de la universidad...",NA,0,0,0,0,2025-03-31 13:07:20,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"812","2025_4","No binarie","No soy de la universidad...",NA,5,0,16,16,2025-03-31 13:40:18,NA,"Varias veces",NA,0,"11:58:21","Segundo intercambio","Pantalón","Jersey","Pantalón","Pantalón","Falda","","","","","","","","","",""
+"813","2025_4","Mujer","UEM","Amigo organizador",5,3,21,17,2025-03-31 13:41:21,NA,"Primera vez",NA,0,"15:46:17","Primer intercambio","Pantalón","Sudadera","Sudadera","Sudadera","Chaqueta","2/04/2025 16:03:16","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
+"814","2025_4","Hombre","UC3M","Comunicación UC3M",0,0,0,0,2025-03-31 13:44:01,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"815","2025_4","Mujer","UC3M","Material impreso",5,6,14,-1,2025-03-31 14:58:56,NA,"Primera vez",NA,0,"15:33:21","Primer intercambio","Pantalón","Camiseta/Polo/Top","Falda","Pantalón","Pantalón","2/04/2025 16:49:25","Bolso","Jersey","Camiseta/Polo/Top","Pantalón","Jersey","","","",""
+"816","2025_4","Mujer","UC3M",NA,2,3,4,-2,2025-03-31 15:26:17,NA,"Varias veces",NA,0,"13:13:46","CUARTO INTERCAMBIO","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","2/04/2025 13:53:49","Sudadera","Camiseta/Polo/Top","","","","","","",""
+"817","2025_4","Hombre","UC3M",NA,0,0,0,0,2025-03-31 15:36:41,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"818","2025_4","Hombre","UC3M",NA,4,3,14,9,2025-03-31 15:38:54,NA,"Varias veces",NA,0,"14:13:52","Tercer intercambio","Jersey","Jersey","Pantalón","Pantalón","","2/04/2025 14:59:54","Pantalón","Camiseta/Polo/Top","","","","","","",""
+"819","2025_4","Mujer","UC3M",NA,1,7,3,-19,2025-03-31 16:30:11,NA,"Varias veces",NA,0,"16:17:33","Tercer intercambio","Pantalón","","","","","2/04/2025 15:00:28","Vestido","Vestido","Pantalón","Jersey","Sudadera","Pantalón","","",""
+"820","2025_4","Hombre","UC3M",NA,1,2,6,4,2025-03-31 17:01:49,NA,"Varias veces",NA,0,"11:47:19","Segundo intercambio","Chaqueta","","","","","2/04/2025 11:51:18","Camiseta/Polo/Top","","","","","","","",""
+"821","2025_4","Hombre","UC3M",NA,3,2,31,27,2025-03-31 17:03:43,NA,"Varias veces",NA,19,"16:37:34","Tercer intercambio","Jersey","Sudadera","Sudadera","","","2/04/2025 17:50:17","Jersey","","","","","","","",""
+"822","2025_4","Hombre","UC3M",NA,5,6,22,3,2025-03-31 17:17:05,NA,"Segunda vez",NA,1,"14:06:20","Segundo intercambio","Camiseta/Polo/Top","Sudadera","Pantalón","Abrigo","Abrigo","2/04/2025 14:31:16","Camiseta/Polo/Top","Pantalón","Chaqueta","Camiseta/Polo/Top","Chaqueta","","","",""
+"823","2025_4","Mujer","No soy de la universidad...",NA,5,6,17,1,2025-03-31 18:50:57,NA,"Primera vez",1,0,"16:25:02","Primer intercambio","Bolso","Jersey","Vestido","Pantalón","Pantalón","2/04/2025 17:06:46","Jersey","Jersey","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"824","2025_4","Mujer","URJC",NA,0,0,0,0,2025-03-31 19:11:14,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"825","2025_4","Hombre","UC3M",NA,0,6,25,10,2025-03-31 22:14:48,NA,"Varias veces",NA,25,"","Primer intercambio","","","","","","2/04/2025 16:47:21","Camiseta/Polo/Top","Sudadera","Pantalón","Pantalón","Pantalón","","","",""
+"826","2025_4","Hombre","No soy de la universidad...","Amigo organizador",3,2,13,10,2025-04-01 06:02:03,NA,"Primera vez",2,0,"16:28:43","Primer intercambio","Jersey","Jersey","Pantalón","","","2/04/2025 17:43:58","Pantalón","","","","","","","",""
+"827","2025_4","Mujer","UC3M","Amigo organizador",1,2,3,0,2025-04-01 08:30:29,NA,"Primera vez",NA,0,"16:52:24","Primer intercambio","Pantalón","","","","","2/04/2025 17:14:13","Pantalón","","","","","","","",""
+"828","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-04-01 09:13:43,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"829","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-04-01 09:23:14,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"830","2025_4","Hombre","UC3M","Amigos",3,0,12,12,2025-04-01 10:21:54,NA,"Primera vez",NA,2,"15:51:40","Primer intercambio","Abrigo","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","","","","","","",""
+"831","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-04-01 12:10:14,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"832","2025_4","Hombre","No soy de la universidad...","Amigos",2,3,7,-1,2025-04-01 12:14:27,NA,"Primera vez",NA,0,"16:29:57","Primer intercambio","Pantalón","Jersey","","","","2/04/2025 17:43:17","Sudadera","Sudadera","","","","","","",""
+"833","2025_4","Mujer","UC3M",NA,0,5,19,9,2025-04-01 12:44:21,NA,"Varias veces",NA,19,"","Tercer intercambio","","","","","","2/04/2025 15:14:27","Vestido","Camiseta/Polo/Top","Bolso","Camiseta/Polo/Top","","","","",""
+"834","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-04-01 12:56:25,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"835","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-04-01 13:53:51,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"836","2025_4","No binarie","UC3M",NA,4,4,13,4,2025-04-01 14:12:39,NA,"Varias veces",NA,0,"11:23:16","Primer intercambio","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","Chaqueta","","2/04/2025 11:29:53","Pantalón","Camiseta/Polo/Top","Sudadera","","","","","",""
+"837","2025_4","Mujer","UC3M",NA,5,5,17,2,2025-04-01 14:27:01,NA,"Segunda vez",NA,0,"11:16:22","Primer intercambio","Pantalón","Pantalón","Pantalón","Jersey","Jersey","2/04/2025 11:56:37","Complementos","Chaqueta","Chaqueta","Camiseta/Polo/Top","","","","",""
+"838","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-04-01 14:40:47,NA,"Segunda vez",NA,0,"","Segundo intercambio","","","","","","","","","","","","","","",""
+"839","2025_4","Mujer","UC3M","Amigos",3,2,9,7,2025-04-01 14:50:31,NA,"Primera vez",NA,0,"14:10:31","Primer intercambio","Pantalón","Vestido","Camiseta/Polo/Top","","","2/04/2025 17:21:58","Camiseta/Polo/Top","","","","","","","",""
+"840","2025_4","Mujer","UC3M","Comunicación UC3M",0,0,0,0,2025-04-01 15:16:29,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"841","2025_4","Mujer","No soy de la universidad...",NA,5,0,12,12,2025-04-01 15:29:32,NA,"Varias veces",NA,0,"16:47:13","Primer intercambio","Pantalón","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","","","","",""
+"842","2025_4","Mujer","UC3M",NA,0,0,0,0,2025-04-01 17:26:28,NA,"Segunda vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"843","2025_4","Mujer","UC3M","Amigo organizador",5,3,12,6,2025-04-01 17:42:29,NA,"Primera vez",NA,0,"12:29:32","Primer intercambio","Pantalón","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 14:18:00","Vestido","Camiseta/Polo/Top","","","","","","",""
+"844","2025_4","Mujer","UC3M",NA,0,0,2,2,2025-04-01 17:43:51,NA,"Varias veces",2,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"845","2025_4","Hombre","UFV","Amigo organizador",1,0,4,4,2025-04-01 18:55:44,NA,"Primera vez",NA,0,"13:28:14","Primer intercambio","Sudadera","","","","","","","","","","","","","",""
+"846","2025_4","Hombre","UCM",NA,5,3,33,21,2025-04-01 19:36:14,NA,"Varias veces",NA,14,"12:05:55","Segundo intercambio","Sudadera","Sudadera","Sudadera","Jersey","Pantalón","2/04/2025 12:45:42","Chaqueta","Chaqueta","","","","","","",""
+"847","2025_4","Mujer","UC3M",NA,5,10,33,7,2025-04-01 20:32:19,NA,"Varias veces",NA,5,"14:01:00","Tercer intercambio","Abrigo","Abrigo","Vestido","Abrigo","Abrigo","2/04/2025 14:59:02","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Sudadera","Jersey","Sudadera","Pantalón","Pantalón","Camiseta/Polo/Top"
+"848","2025_4","Mujer","UC3M",NA,0,0,4,4,2025-04-01 20:37:05,NA,"Segunda vez",NA,4,"","Segundo intercambio","","","","","","","","","","","","","","",""
+"849","2025_4","Mujer","UC3M",NA,1,2,4,0,2025-04-01 21:05:34,NA,"Segunda vez",NA,0,"12:35:05","Primer intercambio","Jersey","","","","","2/04/2025 12:34:14","Jersey","","","","","","","",""
+"850","2025_4","Mujer","UC3M","Amigo organizador",1,2,2,-4,2025-04-01 22:15:37,NA,"Primera vez",NA,0,"12:42:12","Primer intercambio","Camiseta/Polo/Top","","","","","2/04/2025 13:14:37","Chaqueta","","","","","","","",""
+"851","2025_4","Mujer","UC3M",NA,5,5,19,4,2025-04-01 22:54:01,NA,"Varias veces",NA,7,"12:24:28","Segundo intercambio","Pantalón","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 12:49:24","Falda","Falda","Chaqueta","Pantalón","","","","",""
+"852","2025_4","Mujer","UC3M","Amigo organizador",0,0,0,0,2025-04-02 06:17:32,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"853","2025_4","Mujer","UC3M","Comunicación UC3M",4,3,13,8,2025-04-02 06:33:20,NA,"Primera vez",NA,0,"11:27:46","Primer intercambio","Pantalón","Abrigo","Camiseta/Polo/Top","Camiseta/Polo/Top","","2/04/2025 12:26:24","Pantalón","Camiseta/Polo/Top","","","","","","",""
+"854","2025_4","Mujer","UC3M",NA,4,3,12,2,2025-04-02 07:07:43,NA,"Segunda vez",NA,0,"11:10:59","Primer intercambio","Pantalón","Pantalón","Pantalón","Pantalón","","2/04/2025 12:23:07","Jersey","Chaqueta","","","","","","",""
+"855","2025_4","Mujer","UC3M",NA,5,7,20,4,2025-04-02 08:05:23,NA,"Varias veces",2,0,"14:02:45","Primer intercambio","Pantalón","Pantalón","Camiseta/Polo/Top","Jersey","Chaqueta","2/04/2025 14:34:31","Falda","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","","",""
+"856","2025_4","Mujer","UPM","Comunicación UC3M",0,0,0,0,2025-04-02 08:22:09,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"857","2025_4","Mujer","UC3M","Amigo organizador",5,4,17,7,2025-04-02 08:34:17,NA,"Primera vez",NA,0,"12:59:30","Primer intercambio","Jersey","Sudadera","Vestido","Camiseta/Polo/Top","Pantalón","2/04/2025 13:28:59","Camiseta/Polo/Top","Jersey","Vestido","","","","","",""
+"858","2025_4","Mujer","No soy de la universidad...","Amigo organizador",4,4,18,8,2025-04-02 09:03:31,NA,"Primera vez",NA,0,"11:59:13","Primer intercambio","Vestido","Vestido","Chaqueta","Jersey","","2/04/2025 12:19:42","Chaqueta","Falda","Complementos","","","","","",""
+"859","2025_4","Mujer","UC3M",NA,3,4,11,5,2025-04-02 09:12:21,NA,"Varias veces",2,0,"11:13:45","Primer intercambio","Sudadera","Camiseta/Polo/Top","Pantalón","","","2/04/2025 12:17:52","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","",""
+"860","2025_4","Mujer","UC3M","Material impreso",5,5,17,4,2025-04-02 09:13:13,NA,"Primera vez",2,0,"11:17:36","Primer intercambio","Pantalón","Pantalón","Sudadera","Pantalón","Camiseta/Polo/Top","2/04/2025 12:18:27","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Chaqueta","","","","",""
+"861","2025_4","Mujer","UC3M","Comunicación UC3M",5,7,24,10,2025-04-02 09:14:05,NA,"Primera vez",NA,0,"11:15:19","Primer intercambio","Chaqueta","Abrigo","Chaqueta","Sudadera","Camiseta/Polo/Top","2/04/2025 12:19:19","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","",""
+"862","2025_4","Mujer","UC3M",NA,4,3,14,6,2025-04-02 09:16:46,NA,"Segunda vez",2,3,"11:19:11","Segundo intercambio","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","2/04/2025 11:53:36","Camiseta/Polo/Top","Chaqueta","","","","","","",""
+"863","2025_4","Mujer","UC3M","Amigo organizador",3,3,10,2,2025-04-02 09:23:24,NA,"Primera vez",NA,0,"13:37:10","Primer intercambio","Pantalón","Pantalón","Jersey","","","2/04/2025 14:09:06","Sudadera","Sudadera","","","","","","",""
+"864","2025_4","Mujer","UC3M","Amigo organizador",1,0,4,4,2025-04-02 09:23:29,NA,"Primera vez",NA,0,"11:25:25","Primer intercambio","Jersey","","","","","","","","","","","","","",""
+"865","2025_4","Agenero","No soy de la universidad...","Amigo organizador",5,4,20,5,2025-04-02 09:23:43,NA,"Primera vez",NA,0,"11:26:20","Primer intercambio","Vestido","Vestido","Vestido","Vestido","Vestido","2/04/2025 12:07:37","Chaqueta","Chaqueta","Falda","","","","","",""
+"866","2025_4","Mujer","UC3M","Amigo organizador",4,5,13,-3,2025-04-02 09:24:51,NA,"Primera vez",NA,0,"11:25:42","Segundo intercambio","Pantalón","Pantalón","Pantalón","Sudadera","","2/04/2025 11:37:55","Jersey","Jersey","Jersey","Jersey","","","","",""
+"867","2025_4","No binarie","UC3M",NA,4,4,21,10,2025-04-02 09:27:45,NA,"Varias veces",NA,6,"12:00:45","CUARTO INTERCAMBIO","Chaqueta","Pantalón","Camiseta/Polo/Top","Jersey","","2/04/2025 12:20:37","Pantalón","Chaqueta","Camiseta/Polo/Top","","","","","",""
+"868","2025_4","Mujer","UC3M",NA,4,6,29,11,2025-04-02 09:44:32,NA,"Segunda vez",NA,13,"11:44:50","Primer intercambio","Pantalón","Pantalón","Vestido","Chaqueta","","2/04/2025 12:14:36","Bolso","Jersey","Vestido","Vestido","Jersey","","","",""
+"869","2025_4","Hombre","UC3M",NA,4,3,13,7,2025-04-02 09:58:58,NA,"Varias veces",2,0,"12:57:02","Segundo intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Sudadera","","2/04/2025 12:56:17","Sudadera","Camiseta/Polo/Top","","","","","","",""
+"870","2025_4","Mujer","No soy de la universidad...","Amigo organizador",5,7,16,0,2025-04-02 10:00:09,NA,"Primera vez",NA,0,"12:11:18","Primer intercambio","Pantalón","Jersey","Falda","Camiseta/Polo/Top","Vestido","2/04/2025 12:37:47","Camiseta/Polo/Top","Falda","Camiseta/Polo/Top","Vestido","Camiseta/Polo/Top","Pantalón","","",""
+"871","2025_4","Hombre","UCM",NA,0,0,17,17,2025-04-02 10:04:26,NA,"Segunda vez",NA,17,"","Segundo intercambio","","","","","","","","","","","","","","",""
+"872","2025_4","Mujer","UCM",NA,1,3,6,0,2025-04-02 10:06:20,NA,"Segunda vez",NA,0,"12:07:18","Segundo intercambio","Chaqueta","","","","","2/04/2025 12:43:49","Camiseta/Polo/Top","Jersey","","","","","","",""
+"873","2025_4","Hombre","UC3M",NA,3,0,7,7,2025-04-02 10:11:37,NA,"Varias veces",NA,0,"12:12:30","Segundo intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","","","","","","","","","","","",""
+"874","2025_4","Mujer","UC3M","Amigo organizador",5,5,14,3,2025-04-02 10:25:38,NA,"Primera vez",NA,0,"12:26:03","Primer intercambio","Camiseta/Polo/Top","Pantalón","Pantalón","Pantalón","Pantalón","2/04/2025 12:59:22","Pantalón","Pantalón","Falda","Camiseta/Polo/Top","","","","",""
+"875","2025_4","No binarie","UCM","Amigo organizador",5,7,22,2,2025-04-02 10:32:04,NA,"Primera vez",NA,2,"12:35:43","Primer intercambio","Chaqueta","Sudadera","Jersey","Jersey","Camiseta/Polo/Top","2/04/2025 14:20:08","Jersey","Jersey","Sudadera","Camiseta/Polo/Top","Pantalón","Pantalón","","",""
+"876","2025_4","Mujer","UC3M",NA,5,7,19,0,2025-04-02 10:32:26,NA,"Segunda vez",NA,0,"12:33:56","Primer intercambio","Vestido","Pantalón","Chaqueta","Vestido","Camiseta/Polo/Top","2/04/2025 12:50:28","Complementos","Chaqueta","Camiseta/Polo/Top","Jersey","Jersey","Camiseta/Polo/Top","","",""
+"877","2025_4","Mujer","UC3M","Comunicación UC3M",5,3,18,12,2025-04-02 10:36:55,NA,"Primera vez",NA,0,"12:37:21","Primer intercambio","Camiseta/Polo/Top","Vestido","Chaqueta","Falda","Falda","2/04/2025 16:27:26","Jersey","Camiseta/Polo/Top","","","","","","",""
+"878","2025_4","Hombre","UC3M","Amigo organizador",5,4,18,4,2025-04-02 10:38:05,NA,"Primera vez",NA,0,"12:39:05","Primer intercambio","Sudadera","Jersey","Camiseta/Polo/Top","Chaqueta","Camiseta/Polo/Top","2/04/2025 13:02:22","Jersey","Abrigo","Jersey","","","","","",""
+"879","2025_4","Mujer","UC3M",NA,5,10,26,0,2025-04-02 10:39:38,NA,"Varias veces",NA,0,"12:40:34","Primer intercambio","Chaqueta","Chaqueta","Chaqueta","Jersey","Jersey","2/04/2025 13:23:51","Vestido","Vestido","Camiseta/Polo/Top","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Jersey","Camiseta/Polo/Top"
+"880","2025_4","Mujer","UC3M","Amigos",0,2,2,0,2025-04-02 10:40:57,NA,"Primera vez",2,0,"","Primer intercambio","","","","","","2/04/2025 12:49:11","Camiseta/Polo/Top","","","","","","","",""
+"881","2025_4","Mujer","UC3M",NA,NA,2,NA,6,2025-04-02 10:42:13,NA,"Varias veces",NA,NA,NA,NA,NA,NA,NA,NA,NA,"2/04/2025 12:54:24","Jersey","","","","","","","",""
+"882","2025_4","Hombre","UC3M",NA,0,2,2,0,2025-04-02 10:42:41,NA,"Segunda vez",2,0,"","Primer intercambio","","","","","","2/04/2025 12:53:53","Camiseta/Polo/Top","","","","","","","",""
+"883","2025_4","Mujer","UC3M",NA,0,2,2,0,2025-04-02 10:43:52,NA,"Segunda vez",2,0,"","Primer intercambio","","","","","","2/04/2025 12:53:06","Camiseta/Polo/Top","","","","","","","",""
+"884","2025_4","Hombre","UC3M","Comunicación UC3M",5,0,16,16,2025-04-02 10:46:21,NA,"Primera vez",2,0,"15:53:11","Primer intercambio","Pantalón","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","","","","","","","","","",""
+"885","2025_4","Mujer","UC3M",NA,5,2,26,22,2025-04-02 10:52:35,NA,"Varias veces",NA,7,"12:59:30","Segundo intercambio","Pantalón","Chaqueta","Camiseta/Polo/Top","Jersey","Sudadera","2/04/2025 16:41:37","Jersey","","","","","","","",""
+"886","2025_4","Mujer","UCM","Amigos",5,5,17,5,2025-04-02 10:54:23,NA,"Primera vez",2,0,"12:55:02","Primer intercambio","Pantalón","Jersey","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 14:16:50","Falda","Camiseta/Polo/Top","Pantalón","Jersey","","","","",""
+"887","2025_4","Mujer","UC3M",NA,5,6,15,1,2025-04-02 11:01:37,NA,"Varias veces",NA,0,"13:02:20","Primer intercambio","Pantalón","Camiseta/Polo/Top","Vestido","Camiseta/Polo/Top","Vestido","2/04/2025 13:19:43","Jersey","Sudadera","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","",""
+"888","2025_4","Mujer","UC3M","Amigo organizador",5,4,12,4,2025-04-02 11:02:29,NA,"Primera vez",NA,0,"13:03:06","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Falda","Falda","2/04/2025 13:22:16","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","","","","","",""
+"889","2025_4","Mujer","UC3M",NA,4,4,9,1,2025-04-02 11:03:23,NA,"Varias veces",NA,0,"13:04:19","Primer intercambio","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","","2/04/2025 13:22:56","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","","","","","",""
+"890","2025_4","Mujer","UC3M",NA,0,5,15,7,2025-04-02 11:03:25,NA,"Segunda vez",NA,15,"","Segundo intercambio","","","","","","2/04/2025 13:04:42","Pantalón","Complementos","Bolso","Camiseta/Polo/Top","","","","",""
+"891","2025_4","Mujer","UC3M",NA,0,3,7,3,2025-04-02 11:06:37,NA,"Segunda vez",NA,7,"","Segundo intercambio","","","","","","2/04/2025 13:08:04","Falda","Complementos","","","","","","",""
+"892","2025_4","Mujer","UC3M",NA,5,6,20,4,2025-04-02 11:11:35,NA,"Varias veces",2,6,"13:12:20","Tercer intercambio","Camiseta/Polo/Top","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 13:57:09","Jersey","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","","","",""
+"893","2025_4","Mujer","UC3M",NA,4,6,14,0,2025-04-02 11:14:14,NA,"Segunda vez",NA,0,"13:15:05","Primer intercambio","Chaqueta","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","","2/04/2025 13:47:41","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","Falda","Pantalón","","","",""
+"894","2025_4","Mujer","UC3M","Comunicación UC3M",4,4,11,1,2025-04-02 11:14:42,NA,"Primera vez",NA,0,"13:15:18","Primer intercambio","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","","2/04/2025 13:46:42","Jersey","Falda","Pantalón","","","","","",""
+"895","2025_4","No binarie","UC3M",NA,5,6,20,8,2025-04-02 11:31:27,NA,"Varias veces",NA,5,"13:31:53","Tercer intercambio","Vestido","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","Pantalón","2/04/2025 16:48:00","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","","","",""
+"896","2025_4","Mujer","UC3M",NA,5,3,20,13,2025-04-02 11:31:31,NA,"Varias veces",NA,8,"13:33:18","Segundo intercambio","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","2/04/2025 16:42:52","Jersey","Pantalón","","","","","","",""
+"897","2025_4","Mujer","UC3M",NA,5,4,13,1,2025-04-02 11:35:32,NA,"Varias veces",NA,0,"13:35:53","Segundo intercambio","Jersey","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","2/04/2025 13:48:49","Sudadera","Sudadera","Jersey","","","","","",""
+"898","2025_4","Hombre","UC3M","Amigos",5,0,19,19,2025-04-02 11:37:44,NA,"Primera vez",2,0,"13:38:16","Primer intercambio","Sudadera","Sudadera","Pantalón","Pantalón","Pantalón","","","","","","","","","",""
+"899","2025_4","No binarie","UC3M","Comunicación UC3M",4,3,15,11,2025-04-02 11:39:34,NA,"Primera vez",NA,0,"13:40:01","Primer intercambio","Chaqueta","Jersey","Pantalón","Camiseta/Polo/Top","","2/04/2025 14:14:49","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
+"900","2025_4","Mujer","UC3M",NA,4,0,24,24,2025-04-02 11:40:23,NA,"Varias veces",2,8,"13:40:50","Segundo intercambio","Camiseta/Polo/Top","Sudadera","Chaqueta","Camiseta/Polo/Top","","","","","","","","","","",""
+"901","2025_4","Mujer","UC3M","Comunicación UC3M",1,3,4,0,2025-04-02 11:42:03,NA,"Primera vez",NA,0,"13:48:25","Primer intercambio","Jersey","","","","","2/04/2025 14:12:44","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
+"902","2025_4","Mujer","UC3M",NA,3,5,14,0,2025-04-02 11:46:30,NA,"Varias veces",2,0,"13:47:16","Primer intercambio","Jersey","Vestido","Sudadera","","","2/04/2025 14:00:00","Chaqueta","Sudadera","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","",""
+"903","2025_4","Mujer","UC3M",NA,5,0,25,25,2025-04-02 12:03:46,NA,"Segunda vez",11,0,"14:04:03","Segundo intercambio","Jersey","Jersey","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","","","","",""
+"904","2025_4","Mujer","UC3M",NA,0,4,0,-8,2025-04-02 12:04:09,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","2/04/2025 14:26:26","Camiseta/Polo/Top","Camiseta/Polo/Top","Vestido","","","","","",""
+"905","2025_4","Mujer","UC3M",NA,0,2,3,1,2025-04-02 12:04:33,NA,"Varias veces",NA,3,"","Tercer intercambio","","","","","","2/04/2025 14:26:53","Camiseta/Polo/Top","","","","","","","",""
+"906","2025_4","Mujer","UC3M",NA,5,0,12,12,2025-04-02 12:06:37,NA,"Segunda vez",NA,0,"14:07:23","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Sudadera","","","","","","","","","",""
+"907","2025_4","Mujer","UC3M",NA,4,0,9,9,2025-04-02 12:06:56,NA,"Segunda vez",NA,0,"14:08:46","Primer intercambio","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","","","","","",""
+"908","2025_4","Mujer","UC3M",NA,5,0,24,24,2025-04-02 12:10:38,NA,"Varias veces",NA,0,"14:11:16","Tercer intercambio","Abrigo","Chaqueta","Vestido","Vestido","Vestido","","","","","","","","","",""
+"909","2025_4","Mujer","UC3M","Amigos",5,6,15,2,2025-04-02 12:19:20,NA,"Primera vez",NA,0,"14:21:09","Primer intercambio","Pantalón","Pantalón","Pantalón","Pantalón","Pantalón","2/04/2025 15:07:00","Camiseta/Polo/Top","Camiseta/Polo/Top","Falda","Pantalón","Pantalón","","","",""
+"910","2025_4","Mujer","URJC","Amigo organizador",0,0,0,0,2025-04-02 12:20:14,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"911","2025_4","Mujer","UC3M",NA,5,5,13,-1,2025-04-02 12:24:50,NA,"Varias veces",NA,0,"14:25:33","Segundo intercambio","Camiseta/Polo/Top","Vestido","Bolso","Pantalón","Camiseta/Polo/Top","2/04/2025 14:32:31","Vestido","Jersey","Jersey","Camiseta/Polo/Top","","","","",""
+"912","2025_4","Mujer","UC3M","Amigo organizador",0,2,2,0,2025-04-02 12:27:41,NA,"Primera vez",2,0,"","Primer intercambio","","","","","","2/04/2025 14:34:22","Camiseta/Polo/Top","","","","","","","",""
+"913","2025_4","Mujer","UC3M",NA,5,7,16,0,2025-04-02 12:31:36,NA,"Varias veces",NA,0,"14:32:47","Primer intercambio","Pantalón","Pantalón","Pantalón","Falda","Vestido","2/04/2025 14:56:17","Jersey","Falda","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","","",""
+"914","2025_4","Mujer","UC3M","Amigos",0,0,0,0,2025-04-02 12:32:27,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"915","2025_4","Hombre","UC3M","Amigos",3,2,6,2,2025-04-02 12:39:24,NA,"Primera vez",NA,0,"14:39:46","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","","","2/04/2025 14:55:07","Sudadera","","","","","","","",""
+"916","2025_4","Hombre","UC3M","Amigo organizador",0,2,2,0,2025-04-02 12:41:36,NA,"Primera vez",2,0,"14:42:34","Primer intercambio","","","","","","2/04/2025 14:42:42","Camiseta/Polo/Top","","","","","","","",""
+"917","2025_4","Hombre","UC3M","Amigo organizador",5,4,18,11,2025-04-02 12:41:50,NA,"Primera vez",NA,0,"14:44:56","Primer intercambio","Jersey","Jersey","Pantalón","Jersey","Pantalón","2/04/2025 15:23:54","Pantalón","Pantalón","Complementos","","","","","",""
+"918","2025_4","Mujer","UC3M",NA,3,3,6,0,2025-04-02 12:43:25,NA,"Segunda vez",NA,0,"14:43:55","Primer intercambio","Bolso","Camiseta/Polo/Top","Camiseta/Polo/Top","","","2/04/2025 14:53:35","Camiseta/Polo/Top","Jersey","","","","","","",""
+"919","2025_4","Mujer","UC3M",NA,4,7,22,1,2025-04-02 13:04:09,NA,"Varias veces",NA,8,"15:04:25","Segundo intercambio","Camiseta/Polo/Top","Jersey","Jersey","Vestido","","2/04/2025 15:15:56","Sudadera","Sudadera","Camiseta/Polo/Top","Falda","Chaqueta","Camiseta/Polo/Top","","",""
+"920","2025_4","No binarie","UC3M",NA,5,5,17,7,2025-04-02 13:04:49,NA,"Varias veces",NA,0,"15:05:39","Tercer intercambio","Pantalón","Camiseta/Polo/Top","Jersey","Sudadera","Vestido","2/04/2025 15:27:20","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","Pantalón","","","","",""
+"921","2025_4","Hombre","UC3M",NA,1,2,4,2,2025-04-02 13:05:22,NA,"Varias veces",NA,0,"15:06:47","Primer intercambio","Sudadera","","","","","2/04/2025 16:12:24","Camiseta/Polo/Top","","","","","","","",""
+"922","2025_4","Hombre","UC3M","Comunicación UC3M",2,5,4,-9,2025-04-02 13:20:32,NA,"Primera vez",NA,0,"15:20:49","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","2/04/2025 16:41:19","Jersey","Camiseta/Polo/Top","Jersey","Pantalón","","","","",""
+"923","2025_4","Mujer","UC3M",NA,3,0,14,14,2025-04-02 13:39:35,NA,"Varias veces",NA,5,"15:40:24","Segundo intercambio","Camiseta/Polo/Top","Pantalón","Jersey","","","","","","","","","","","",""
+"924","2025_4","Hombre","UC3M",NA,0,2,4,-2,2025-04-02 13:42:36,NA,"Varias veces",NA,4,"","Tercer intercambio","","","","","","2/04/2025 15:43:34","Chaqueta","","","","","","","",""
+"925","2025_4","Mujer","UC3M",NA,5,6,18,4,2025-04-02 13:50:00,NA,"Varias veces",NA,2,"15:51:40","Segundo intercambio","Pantalón","Jersey","Pantalón","Pantalón","Pantalón","2/04/2025 16:38:31","Falda","Vestido","Camiseta/Polo/Top","Pantalón","Camiseta/Polo/Top","","","",""
+"926","2025_4","Mujer","UC3M",NA,0,0,11,11,2025-04-02 13:51:36,NA,"Segunda vez",NA,11,"","Primer intercambio","","","","","","","","","","","","","","",""
+"927","2025_4","Mujer","UC3M",NA,0,2,2,1,2025-04-02 13:53:05,NA,"Segunda vez",NA,2,"","Segundo intercambio","","","","","","2/04/2025 16:16:00","Complementos","","","","","","","",""
+"928","2025_4","Mujer","UC3M",NA,3,NA,16,NA,2025-04-02 14:08:25,NA,"Varias veces",NA,0,"16:11:40","Primer intercambio","Chaqueta","Jersey","Chaqueta","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"929","2025_4","Mujer","URJC",NA,5,2,18,16,2025-04-02 14:09:15,NA,"Segunda vez",2,0,"16:10:39","Primer intercambio","Pantalón","Pantalón","Jersey","Vestido","Camiseta/Polo/Top","2/04/2025 16:53:17","Camiseta/Polo/Top","","","","","","","",""
+"930","2025_4","Mujer","UC3M",NA,5,7,16,3,2025-04-02 14:10:22,NA,"Varias veces",NA,0,"16:43:49","Primer intercambio","Falda","Camiseta/Polo/Top","Jersey","Jersey","Pantalón","2/04/2025 16:44:44","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","","",""
+"931","2025_4","Mujer","UC3M",NA,2,3,8,2,2025-04-02 14:12:32,NA,"Varias veces",2,0,"16:39:48","Primer intercambio","Jersey","Camiseta/Polo/Top","","","","2/04/2025 16:39:57","Jersey","Camiseta/Polo/Top","","","","","","",""
+"932","2025_4","Mujer","UC3M","Comunicación UC3M",NA,NA,NA,NA,2025-04-02 14:14:09,NA,"Primera vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"933","2025_4","Mujer","UC3M",NA,NA,NA,NA,NA,2025-04-02 14:14:53,NA,"Segunda vez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"934","2025_4","Mujer","UC3M",NA,4,3,11,7,2025-04-02 14:17:58,NA,"Varias veces",NA,0,"","Primer intercambio","Pantalón","Camiseta/Polo/Top","Camiseta/Polo/Top","Jersey","","2/04/2025 16:40:23","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
+"935","2025_4","Mujer","UC3M",NA,0,4,0,-9,2025-04-02 14:18:14,NA,"Varias veces",NA,0,"","Primer intercambio","","","","","","2/04/2025 16:36:11","Camiseta/Polo/Top","Pantalón","Sudadera","","","","","",""
+"936","2025_4","Mujer","UC3M",NA,3,0,7,7,2025-04-02 14:18:52,NA,"Segunda vez",NA,0,"16:20:10","Primer intercambio","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","","","","","","","","","","","",""
+"937","2025_4","Mujer","UC3M","Amigo organizador",3,4,9,0,2025-04-02 14:19:27,NA,"Primera vez",NA,0,"16:22:07","Primer intercambio","Vestido","Pantalón","Camiseta/Polo/Top","","","2/04/2025 16:36:57","Vestido","Camiseta/Polo/Top","Pantalón","","","","","",""
+"938","2025_4","Mujer","UC3M","Comunicación UC3M",5,4,15,2,2025-04-02 14:25:26,NA,"Primera vez",NA,0,"16:26:46","Primer intercambio","Jersey","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","2/04/2025 17:01:11","Vestido","Falda","Abrigo","","","","","",""
+"939","2025_4","Mujer","UC3M",NA,0,6,19,6,2025-04-02 14:33:14,NA,"Segunda vez",NA,19,"16:36:26","Segundo intercambio","","","","","","2/04/2025 16:36:36","Camiseta/Polo/Top","Pantalón","Pantalón","Pantalón","Camiseta/Polo/Top","","","",""
+"940","2025_4","Mujer","UC3M",NA,2,4,17,10,2025-04-02 14:43:10,NA,"Varias veces",12,0,"16:43:22","Primer intercambio","Camiseta/Polo/Top","Pantalón","","","","2/04/2025 17:40:10","Camiseta/Polo/Top","Camiseta/Polo/Top","Pantalón","","","","","",""
+"941","2025_4","Hombre","UEM","Amigo organizador",0,2,2,-2,2025-04-02 14:45:10,NA,"Primera vez",2,0,"","Primer intercambio","","","","","","2/04/2025 16:45:34","Jersey","","","","","","","",""
+"942","2025_4","Mujer","UC3M","Amigo organizador",0,0,0,0,2025-04-02 15:56:19,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","","","","","","","","","",""
+"943","2025_4","Mujer","UC3M","Amigos",0,3,0,-4,2025-04-02 16:09:25,NA,"Primera vez",NA,0,"","Primer intercambio","","","","","","2/04/2025 18:09:41","Camiseta/Polo/Top","Camiseta/Polo/Top","","","","","","",""
